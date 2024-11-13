@@ -39,3 +39,9 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Interesting Bot
 
 # Contributors
+
+Thanks goes to all these wonderful people:
+
+<a href="https://github.com/thejoven/awesome-eliza/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thejoven/awesome-eliza" />
+</a>
