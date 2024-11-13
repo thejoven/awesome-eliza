@@ -26,6 +26,8 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Frameworks
 - [eliza](https://github.com/ai16z/eliza/) - Conversational Agent for Twitter and Discord
 
+## Eliza List
+
 ## Libs and Components
 
 ## Plugins and Extensions
