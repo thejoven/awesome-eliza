@@ -26,14 +26,15 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Frameworks
 - [eliza](https://github.com/ai16z/eliza/) - Eliza is a simple, fast, and lightweight AI agent framework
 
-## Eliza List
 
 ## Document and Tutorial
 - [eliza-Document](https://github.com/ai16z/eliza/) - Official Documentation
 
 ## Libs and Components
+- [agentmemory](https://github.com/ai16z/agentmemory) - Easy-to-use agent memory, powered by chromadb and postgres
 
 ## Plugins and Extensions
+- [agent-twitter-client](https://github.com/ai16z/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 
 ## UI
 
@@ -41,7 +42,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 
 ## Websites
 
-## Interesting Bot
+## Eliza Bot List
 
 # Contributors
 
