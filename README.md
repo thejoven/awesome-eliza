@@ -3,7 +3,7 @@ A curated list of awesome things related to eliza.
 
 <p align="center">
   <br>
-  <img width="400" src="https://raw.githubusercontent.com/birobirobiro/awesome-shadcn-ui/64729b2c178e3fdcb42c0c7bf341bcde7ae502ea/assets/logo.svg" alt="logo of awesome-shadcn/ui repository">
+  <img width="400" src="https://raw.githubusercontent.com/birobirobiro/awesome-shadcn-ui/64729b2c178e3fdcb42c0c7bf341bcde7ae502ea/assets/logo.svg" alt="logo of thejoven/awesome-eliza repository">
   <br>
   <br>
 </p>
