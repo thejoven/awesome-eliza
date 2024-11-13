@@ -29,7 +29,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Eliza List
 
 ## Document and Tutorial
-- [ai16z-eliza-Document](https://github.com/ai16z/eliza/) - Official Documentation
+- [eliza-Document](https://github.com/ai16z/eliza/) - Official Documentation
 
 ## Libs and Components
 
