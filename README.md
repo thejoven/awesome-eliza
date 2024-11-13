@@ -24,9 +24,12 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 </p>
 
 ## Frameworks
-- [eliza](https://github.com/ai16z/eliza/) - Conversational Agent for Twitter and Discord
+- [eliza](https://github.com/ai16z/eliza/) - eliza is a simple, fast, and lightweight AI agent framework
 
 ## Eliza List
+
+## Document and Tutorial
+- [ai16z-eliza-Document](https://github.com/ai16z/eliza/) - Official Documentation English
 
 ## Libs and Components
 
