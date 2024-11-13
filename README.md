@@ -35,6 +35,9 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Plugins and Extensions
 - [agent-twitter-client](https://github.com/ai16z/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 
+## Viedo
+- [Eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
+
 ## UI
 
 ## Tools
