@@ -26,7 +26,6 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Frameworks
 - [eliza](https://github.com/ai16z/eliza/) - Eliza is a simple, fast, and lightweight AI agent framework
 
-
 ## Document and Tutorial
 - [eliza-Document](https://github.com/ai16z/eliza/) - Official Documentation
 
@@ -41,6 +40,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Tools
 
 ## Websites
+- [ai16z](https://ai16z.ai/) - Venture Capital, Powered by Autonomous AI Agents
 
 ## Eliza Bot List
 
