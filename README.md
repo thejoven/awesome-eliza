@@ -24,10 +24,10 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 </p>
 
 ## Frameworks
-- [eliza](https://github.com/ai16z/eliza/) - Eliza is a simple, fast, and lightweight AI agent framework
+- [eliza](https://github.com/ai16z/eliza) - Eliza is a simple, fast, and lightweight AI agent framework
 
 ## Document and Tutorial
-- [eliza-document](https://ai16z.github.io/eliza/docs/intro/) - Official Documentation
+- [eliza-document](https://ai16z.github.io/eliza/docs/intro) - Official Documentation
 
 ## Libs and Components
 - [agentmemory](https://github.com/ai16z/agentmemory) - Easy-to-use agent memory, powered by chromadb and postgres
@@ -41,9 +41,10 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## UI
 
 ## Tools
+- [CobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
 
 ## Websites
-- [ai16z](https://ai16z.ai/) - Venture Capital, Powered by Autonomous AI Agents
+- [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
 
 ## Eliza Bot List
 
