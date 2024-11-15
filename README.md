@@ -36,18 +36,19 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [agent-twitter-client](https://github.com/ai16z/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 
 ## Viedo
-- [Eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
+- [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
 
 ## UI
 
 ## Tools
-- [CobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
+- [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
 - [twitter-scraper-finetune](https://github.com/ai16z/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 
 ## Websites
 - [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
 
-## Eliza Bot List
+## Research
+- [exploring-the-future-of-ai-agents-in-crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance:Exploring the Future of AI Agents in Crypto
 
 # Contributors
 
