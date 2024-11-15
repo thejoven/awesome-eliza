@@ -27,7 +27,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [eliza](https://github.com/ai16z/eliza/) - Eliza is a simple, fast, and lightweight AI agent framework
 
 ## Document and Tutorial
-- [eliza-document](https://ai16z.github.io/eliza/docs/intro/)) - Official Documentation
+- [eliza-document](https://ai16z.github.io/eliza/docs/intro/) - Official Documentation
 
 ## Libs and Components
 - [agentmemory](https://github.com/ai16z/agentmemory) - Easy-to-use agent memory, powered by chromadb and postgres
