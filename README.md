@@ -43,6 +43,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## UI
 
 ## Tools
+- [ai16z-hat](https://rubyfields.github.io/ai16z-hat/) - Wear a ai16z hat
 - [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
 - [twitter-scraper-finetune](https://github.com/ai16z/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [characterfile](https://github.com/ai16z/characterfile) - A simple file format for character data
