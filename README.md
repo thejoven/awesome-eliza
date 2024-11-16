@@ -37,6 +37,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 
 ## Viedo
 - [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
+- [twitter space](https://x.com/ai16zdao/status/1857495347179688235) - 2024-11-16 What Did You Get Done This Week?
 
 ## UI
 
