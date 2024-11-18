@@ -51,6 +51,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## Websites
 - [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
 - [Active Bounties](https://ai16z.github.io/website) - Bounties list
+- [elizas-list](https://github.com/ai16z/elizas-list) - elizas-list
 
 ## Research
 - [exploring-the-future-of-ai-agents-in-crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance:Exploring the Future of AI Agents in Crypto
