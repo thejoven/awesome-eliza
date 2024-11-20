@@ -1,7 +1,7 @@
 <h2 align='center'>awesome-eliza</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://github.com/ai16z/eliza' target="_blank">ai16z/eliza</a>
+A curated list of awesome things related to <a href='https://github.com/ai16z/eliza' target="_blank">ai16z/eliza</a> framework
 <br>
 
 <p align='center'>
