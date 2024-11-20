@@ -39,6 +39,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## UI
 
 ## Tools
+- [eliza-starter](https://github.com/ai16z/eliza-starter) - eliza starter template
 - [ai16z-hat](https://rubyfields.github.io/ai16z-hat/) - Wear a ai16z hat
 - [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
 - [twitter-scraper-finetune](https://github.com/ai16z/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
@@ -46,6 +47,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 
 ## Websites
 - [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
+- [elizas-world](https://github.com/ai16z/elizas-world) - Witness the swarm awaken.
 - [Active Bounties](https://ai16z.github.io/website) - Bounties list
 - [elizas-list](https://github.com/ai16z/elizas-list) - elizas-list
 - [AICombinator](https://decrypt.co/292115/ai16z-and-ryze-labs-partner-to-launch-aicombinator-program-announce-5m-fund-to-support-developers?amp=1) - AICombinator Program
