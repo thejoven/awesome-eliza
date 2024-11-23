@@ -32,9 +32,10 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [agent-twitter-client](https://github.com/ai16z/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 - [LiveVideoChat](https://github.com/ai16z/LiveVideoChat) - Live video avatar chat application. Connects to an Eliza instance running the "Direct" client. Requires a Simli AI API key.
 
-## Video
+## Video and Space
 - [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
-- [twitter space](https://x.com/ai16zdao/status/1857495347179688235) - 2024-11-16 What Did You Get Done This Week?
+- [twitter space 01](https://x.com/ai16zdao/status/1857495347179688235) - 2024-11-16 What Did You Get Done This Week?
+- [twitter space 02](https://x.com/ai16zdao/status/1860092467997212710) - 2024-11-23 What Did You Get Done This Week? #2
 
 ## UI
 
