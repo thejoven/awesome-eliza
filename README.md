@@ -36,6 +36,8 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
 - [twitter space 01](https://x.com/ai16zdao/status/1857495347179688235) - 2024-11-16 What Did You Get Done This Week?
 - [twitter space 02](https://x.com/ai16zdao/status/1860092467997212710) - 2024-11-23 What Did You Get Done This Week? #2
+- [AI Agent Dev School 01](https://www.youtube.com/watch?v=ArptLpQiKfI) - AI Agent Dev School with Shaw, using Eliza 01
+- [AI Agent Dev School 02](https://www.youtube.com/watch?v=AC3h_KzLARo) - AI Agent Dev School with Shaw, using Eliza 02
 
 ## UI
 
