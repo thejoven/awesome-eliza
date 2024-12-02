@@ -32,15 +32,6 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [agent-twitter-client](https://github.com/ai16z/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 - [LiveVideoChat](https://github.com/ai16z/LiveVideoChat) - Live video avatar chat application. Connects to an Eliza instance running the "Direct" client. Requires a Simli AI API key.
 
-## Video and Space
-- [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
-- [twitter space 01](https://x.com/ai16zdao/status/1857495347179688235) - 2024-11-16 What Did You Get Done This Week?
-- [twitter space 02](https://x.com/ai16zdao/status/1860092467997212710) - 2024-11-23 What Did You Get Done This Week? #2
-- [twitter space 03](https://x.com/ai16zdao/status/1862609655509176778) - 2024-11-30 What Did You Get Done This Week? #3
-- [AI Agent Dev School 01](https://www.youtube.com/watch?v=ArptLpQiKfI) - AI Agent Dev School with Shaw, using Eliza 01
-- [AI Agent Dev School 02](https://www.youtube.com/watch?v=AC3h_KzLARo) - AI Agent Dev School with Shaw, using Eliza 02
-- [ai16z DAO v2](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Managing Information Overload, AI Summarization, ai16z DAO v2
-
 ## UI
 
 ## Tools
@@ -55,6 +46,15 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [elizas-world](https://github.com/ai16z/elizas-world) - Witness the swarm awaken.
 - [Active Bounties](https://ai16z.github.io/website) - Bounties list
 - [elizas-list](https://github.com/ai16z/elizas-list) - elizas-list
+
+## Video and Space
+- [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
+- [twitter space 01](https://x.com/ai16zdao/status/1857495347179688235) - 2024-11-16 What Did You Get Done This Week?
+- [twitter space 02](https://x.com/ai16zdao/status/1860092467997212710) - 2024-11-23 What Did You Get Done This Week? #2
+- [twitter space 03](https://x.com/ai16zdao/status/1862609655509176778) - 2024-11-30 What Did You Get Done This Week? #3
+- [AI Agent Dev School 01](https://www.youtube.com/watch?v=ArptLpQiKfI) - AI Agent Dev School with Shaw, using Eliza 01
+- [AI Agent Dev School 02](https://www.youtube.com/watch?v=AC3h_KzLARo) - AI Agent Dev School with Shaw, using Eliza 02
+- [ai16z DAO v2](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Managing Information Overload, AI Summarization, ai16z DAO v2
 
 ## Research
 - [exploring-the-future-of-ai-agents-in-crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance:Exploring the Future of AI Agents in Crypto
