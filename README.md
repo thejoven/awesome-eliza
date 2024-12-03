@@ -40,7 +40,9 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
 - [twitter-scraper-finetune](https://github.com/ai16z/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [characterfile](https://github.com/ai16z/characterfile) - A simple file format for character data
+- [Eliza-Installer](https://github.com/HowieDuhzit/Eliza-Installer) - Automated Eliza Install Script
 
+  
 ## Websites
 - [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
 - [elizas-world](https://github.com/ai16z/elizas-world) - Witness the swarm awaken.
