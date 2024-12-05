@@ -56,6 +56,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [twitter space 03](https://x.com/ai16zdao/status/1862609655509176778) - 2024-11-30 What Did You Get Done This Week? #3
 - [AI Agent Dev School 01](https://www.youtube.com/watch?v=ArptLpQiKfI) - AI Agent Dev School with Shaw, using Eliza 01
 - [AI Agent Dev School 02](https://www.youtube.com/watch?v=AC3h_KzLARo) - AI Agent Dev School with Shaw, using Eliza 02
+- [AI Agent Dev School 03](https://www.youtube.com/watch?v=X1aFEOaGcYE) - ai16z - Shaw - AI Agent Dev School (2024-11-26)
 - [ai16z DAO v2](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Managing Information Overload, AI Summarization, ai16z DAO v2
 
 ## Research
