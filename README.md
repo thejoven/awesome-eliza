@@ -48,6 +48,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [elizas-world](https://github.com/ai16z/elizas-world) - Witness the swarm awaken.
 - [Active Bounties](https://ai16z.github.io/website) - Bounties list
 - [elizas-list](https://github.com/ai16z/elizas-list) - elizas-list
+- [Contributors-profiles](https://ai16z.github.io/profiles/) - Contributors profiles
 
 ## Video and Space
 - [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
