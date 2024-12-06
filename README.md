@@ -58,6 +58,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 - [AI Agent Dev School 01](https://www.youtube.com/watch?v=ArptLpQiKfI) - AI Agent Dev School with Shaw, using Eliza 01
 - [AI Agent Dev School 02](https://www.youtube.com/watch?v=AC3h_KzLARo) - AI Agent Dev School with Shaw, using Eliza 02
 - [AI Agent Dev School 03](https://www.youtube.com/watch?v=X1aFEOaGcYE) - ai16z - Shaw - AI Agent Dev School (2024-11-26)
+- [AI Agent Dev School 04](https://www.youtube.com/watch?v=Y1DiqSVy4aU) - ai16z - Shaw - AI Agent Dev School (2024-12-06)
 - [ai16z DAO v2](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Managing Information Overload, AI Summarization, ai16z DAO v2
 
 ## Research
