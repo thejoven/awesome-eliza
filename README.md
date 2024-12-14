@@ -45,7 +45,8 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
   
 ## Websites
 - [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
-- [elizas-world](https://github.com/ai16z/elizas-world) - Witness the swarm awaken.
+- [elizaos](https://elizaos.ai/) - The Operating System for AI Agents
+- [elizas-world](https://github.com/ai16z/elizas-world) - Witness the swarm awaken
 - [Active Bounties](https://ai16z.github.io/website) - Bounties list
 - [elizas-list](https://github.com/ai16z/elizas-list) - elizas-list
 - [Contributors-profiles](https://ai16z.github.io/profiles/) - Contributors profiles
