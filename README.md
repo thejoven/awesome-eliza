@@ -44,8 +44,8 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [elizaOS-image-lab](https://rubyfields.github.io/elizaOS-image-lab/) - elizaOS-image-lab
   
 ## Websites
-- [elizaOS](https://elizaOS.ai) - Venture Capital, Powered by Autonomous AI Agents
-- [Elizaos](https://elizaos.ai/) - The Operating System for AI Agents
+- [Elizaos](https://elizaos.ai) - The Operating System for AI Agents
+- [Awesome-eliza](https://awesome.eliza.fyi) - A curated list of awesome things related to elizaOS/eliza framework
 - [Elizas-world](https://github.com/elizaOS/elizas-world) - Witness the swarm awaken
 - [Active Bounties](https://elizaOS.github.io/website) - Bounties list
 - [Elizas-list](https://github.com/elizaOS/elizas-list) - elizas-list
