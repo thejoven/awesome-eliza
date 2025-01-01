@@ -54,6 +54,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [Contributors-profiles](https://elizaOS.github.io/profiles/) - Contributors profiles
 - [Elizagen](https://elizagen.howieduhzit.best/) - Eliza Character Generator
 - [Eliza.gg](https://eliza.gg/) - Ask anything about Eliza
+- [Cookie.Fun](https://www.cookie.fun/en/ecosystem/eliza) - AI agents index
 
 ## Video and Space
 - [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
