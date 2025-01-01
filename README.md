@@ -42,6 +42,8 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [characterfile](https://github.com/elizaOS/characterfile) - A simple file format for character data
 - [Eliza-Installer](https://github.com/HowieDuhzit/Eliza-Installer) - Automated Eliza Install Script
 - [elizaOS-image-lab](https://rubyfields.github.io/elizaOS-image-lab/) - elizaOS-image-lab
+<!-- This link is 404 💀 -->
+<!-- Can I delete it? -->
   
 ## Websites
 - [Elizaos](https://elizaos.ai) - The Operating System for AI Agents
@@ -52,6 +54,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [Contributors-profiles](https://elizaOS.github.io/profiles/) - Contributors profiles
 - [Elizagen](https://elizagen.howieduhzit.best/) - Eliza Character Generator
 - [Eliza.gg](https://eliza.gg/) - Ask anything about Eliza
+- [Cookie.Fun](https://www.cookie.fun/en/ecosystem/eliza) - AI agents index
 
 ## Video and Space
 - [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
