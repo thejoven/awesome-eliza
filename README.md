@@ -29,6 +29,14 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [agentmemory](https://github.com/elizaOS/agentmemory) - Easy-to-use agent memory, powered by chromadb and postgres
 
 ## Plugins and Extensions
+- [exa-search-plugin](https://github.com/elizaOS/eliza-plugin-starter/tree/master/src/plugins/exa) - Integrates with the Exa search API.
+- [tavily-search-plugin](https://github.com/elizaOS/eliza-plugin-starter/tree/master/src/plugins/tavily) - Demonstrates web search capabilities using the Tavily API.
+- [solana-plugin](https://github.com/elizaOS/eliza/tree/main/packages/plugins/solana) - Integrates Solana blockchain functionalities.
+- [aptos-plugin](https://github.com/elizaOS/eliza/tree/main/packages/plugins/aptos) - Adds support for the Aptos blockchain.
+- [flow-blockchain-plugin](https://github.com/elizaOS/eliza/tree/main/packages/plugins/flow) - Facilitates interactions with the Flow blockchain.
+- [coinbase-plugin](https://github.com/elizaOS/eliza/tree/main/packages/plugins/coinbase) - Enables advanced trading features via Coinbase.
+- [farcaster-client-plugin](https://github.com/elizaOS/eliza/tree/main/packages/plugins/farcaster) - Provides a client for Farcaster integration.
+- [hyperbolic-api-plugin](https://github.com/elizaOS/eliza/tree/main/packages/plugins/hyperbolic) - Introduces hyperbolic API capabilities to Eliza.
 - [agent-twitter-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 - [LiveVideoChat](https://github.com/elizaOS/LiveVideoChat) - Live video avatar chat application. Connects to an Eliza instance running the "Direct" client. Requires a Simli AI API key.
 
