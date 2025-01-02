@@ -35,13 +35,12 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 ## UI
 
 ## Tools
-- [eliza-starter](https://github.com/elizaOS/eliza-starter) - eliza starter template
+- [elizaOS-starter](https://github.com/elizaOS/eliza-starter) - eliza starter template
 - [elizaOS-hat](https://rubyfields.github.io/elizaOS-hat/) - Wear a elizaOS hat
 - [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
 - [twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [characterfile](https://github.com/elizaOS/characterfile) - A simple file format for character data
-- [Eliza-Installer](https://github.com/HowieDuhzit/Eliza-Installer) - Automated Eliza Install Script
-- [elizaOS-image-lab](https://rubyfields.github.io/elizaOS-image-lab/) - elizaOS-image-lab
+- [elizaOS-Installer](https://github.com/HowieDuhzit/Eliza-Installer) - Automated Eliza Install Script
   
 ## Websites
 - [Elizaos](https://elizaos.ai) - The Operating System for AI Agents
