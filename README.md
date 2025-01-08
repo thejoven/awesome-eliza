@@ -98,8 +98,9 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [eliza.gg](https://eliza.gg/) - Chatbot to ask anything about Eliza, trained on ElizaOS documents
 
 ## Videoes and Spaces
-- [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
-- [elizaOS DAO v2](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Managing Information Overload, AI Summarization, elizaOS DAO v2
+- [Eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
+- [ElizaOS DAO v2](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Managing Information Overload, AI Summarization, elizaOS DAO v2
+- [ElizaOS v2: Planningn](https://www.youtube.com/watch?v=DvHTGc4y5eQ&t=1055s) - by Shaw English and Chinese subtitles
 
 ## What Did You Get Done This Week
 Developers update on what they're working on this week
