@@ -79,7 +79,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-image-generation](https://github.com/elizaOS/eliza/tree/main/packages/plugin-image-generation) - Generate an image based on text prompts
 - [plugin-intiface](https://github.com/elizaOS/eliza/tree/main/packages/plugin-intiface) - Buttplug Plugin
 - [plugin-nft-generation](https://github.com/elizaOS/eliza/tree/main/packages/plugin-nft-generation) - Plugin for handling NFT collection generation, NFT creation, and verification on the Solana blockchain
-- [plugin-nft-collections](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-nft-collections) - 
+- [plugin-nft-collections](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-nft-collections) - Plugin for creating, managing and interacting with NFT collections across multiple blockchain networks
 - [plugin-tee](https://github.com/elizaOS/eliza/tree/main/packages/plugin-tee) - Plugin for handling Trusted Execution Environment (TEE) operations
 - [plugin-trustdb](https://github.com/elizaOS/eliza/tree/main/packages/plugin-trustdb) - SQLite database for a trust scoring system to trade tokens
 - [plugin-twitter](https://github.com/elizaOS/eliza/tree/main/packages/plugin-twitter) - Twitter integration for ElizaOS agents
@@ -91,7 +91,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-allora](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-allora) - Integrates with Allora Network to provide real-time AI predictions and inferences for topics like ETH price.
 - [plugin-asterai](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-asterai) - Enables Eliza agents to interact with asterai's ecosystem of marketplace plugins and agents.
 - [plugin-obsidian](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-obsidian) - Enables integration with Obsidian vaults for note management and knowledge base creation.
-- [plugin-tts]() - Enables AI-powered text-to-speech generation using FAL.ai's services.
+- [plugin-tts](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-tts) - Enables AI-powered text-to-speech generation using FAL.ai's services.
 - [plugin-anyone](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-anyone) - Generic plugin template for creating new Eliza integrations
 - [plugin-autonome](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-autonome) - Plugin for autonomous agent functionality and behaviors
 - [plugin-binance](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-binance) - Integration with Binance exchange APIs and services
@@ -100,7 +100,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 
 - [plugin-giphy](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-giphy) - Integration with the Giphy API for GIF content
 - [plugin-goplus](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-goplus) - Security and analytics integration via GoPlus Network
-- [plugin-irys](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-irys) -  Security and analytics integration via GoPlus Network
+- [plugin-irys](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-irys) -  Permanent data storage integration using the Irys network
 - [plugin-letzai](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-letzai) - AI functionality integration via LetzAI
 - [plugin-opacity](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-opacity) - Decentralized storage integration with Opacity
 - [plugin-open-weather](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-open-weather) - Weather data integration using OpenWeather API
