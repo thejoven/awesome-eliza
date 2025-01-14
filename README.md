@@ -56,7 +56,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-story](https://github.com/elizaOS/eliza/tree/main/packages/plugin-story) - Plugin enabling interaction with Story Protocol's IP management and licensing system on the Odyssey testnet
 - [plugin-sui](https://github.com/elizaOS/eliza/tree/main/packages/plugin-sui)- Plugin providing essential Sui blockchain services for token operations and wallet management
 - [plugin-ton](https://github.com/elizaOS/eliza/tree/main/packages/plugin-ton) - Plugin for handling TON (Telegram Open Network) blockchain operations with wallet management and transfer capabilities
-- [plugin-zksync-era](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-akash) - Plugin for integrating ZKSync Era blockchain operations with token transfer capabilities and transaction management
+- [plugin-zksync-era](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-zksync-era) - Plugin for integrating ZKSync Era blockchain operations with token transfer capabilities and transaction management
 - [plugin-akash](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-akash) - Plugin for interacting with the Akash Network, enabling deployment management and cloud compute operations through ElizaOS.
 - [plugin-arthera](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-arthera) - Plugin that enables interaction with the Arthera blockchain for token transfers and wallet management through custom RPC endpoints.
 - [plugin-avail](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-avail) - Integration plugin for the Avail blockchain data availability layer
