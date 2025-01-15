@@ -146,8 +146,8 @@ Developers update on what they're working on this week
 - [WDYGDTW #5](https://www.youtube.com/watch?v=4u8rbjmvWC0) - 2024-12-14
 - [WDYGDTW #6](https://www.youtube.com/watch?v=R3auUQj9oEg) - 2024-12-21
 - [WDYGDTW #7](https://www.youtube.com/watch?v=jcSF7dSicTI) - 2024-12-28
-- [WDYGDTW #8](https://www.youtube.com/watch?v=Vs7D5DN_trk) - 2024-01-03
-- [WDYGDTW #9](https://www.youtube.com/watch?v=fqM_vYK2bmc) - 2024-01-10
+- [WDYGDTW #8](https://www.youtube.com/watch?v=Vs7D5DN_trk) - 2025-01-03
+- [WDYGDTW #9](https://www.youtube.com/watch?v=fqM_vYK2bmc) - 2025-01-10
 
 ## AI Agent Dev School Series
 AI Agent Dev School with Shaw, using ElizaOS
