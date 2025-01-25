@@ -50,7 +50,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-flow](https://github.com/elizaOS/eliza/tree/main/packages/plugin-flow) - Plugin enabling token management and transfers on the Flow blockchain with Cadence integration
 - [plugin-fuel](https://github.com/elizaOS/eliza/tree/main/packages/plugin-fuel) - Plugin for interacting with the Fuel blockchain, focusing on ETH transfers on the Fuel Ignition network
 - [plugin-icp](https://github.com/elizaOS/eliza/tree/main/packages/plugin-icp) - Plugin for Internet Computer Protocol interactions including meme token creation and canister management
-- [plugin-multerversx](https://github.com/elizaOS/eliza/tree/main/packages/plugin-multiversx) - Plugin for token management and transfers on the MultiversX blockchain network
+- [plugin-multiversx](https://github.com/elizaOS/eliza/tree/main/packages/plugin-multiversx) - Plugin for token management and transfers on the MultiversX blockchain network
 - [plugin-near](https://github.com/elizaOS/eliza/tree/main/packages/plugin-near) - Plugin enabling token management, transfers, and swaps using Ref Finance on the NEAR Protocol
 - [plugin-starknet](https://github.com/elizaOS/eliza/tree/main/packages/plugin-starknet) - Plugin for managing trust scores, token operations, and trading on the Starknet blockchain
 - [plugin-story](https://github.com/elizaOS/eliza/tree/main/packages/plugin-story) - Plugin enabling interaction with Story Protocol's IP management and licensing system on the Odyssey testnet
