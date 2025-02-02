@@ -113,6 +113,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-tee-verfiable-log](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-tee-verifiable-log) - Verifiable logging system using trusted execution environments
 - [plugin-thirdweb](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-thirdweb) - Integration with ThirdWeb's web3 development platform
 - [plugin-spheron](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-spheron) - Plugin for decentralized storage and deployment via Spheron
+- [plugin-okto](https://github.com/okto-hq/eliza-okto-plugin) - Plugin for integrating with Okto wallet
 
 ## Tools
 - [ElizaOS-starter](https://github.com/elizaOS/eliza-starter) - elizaOS starter template
