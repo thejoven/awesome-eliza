@@ -67,6 +67,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-quai](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-quai) -  Integration with the Quai Network blockchain platform
 - [plugin-genlayer](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-genlayer) - Plugin for the GenLayer blockchain platform
 - [plugin-primus](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-primus) - Integration with the Primus blockchain network
+- [plugin-viction](https:/github.com/elizaOS/eliza/tree/main/packages/plugin-viction) - Core plugin that enables comprehensive Viction blockchain interactions including token operations, trading, and DeFi integrations.
 
 ## Other Plugins
 - [create-eliza-app](https://github.com/elizaOS/eliza/tree/main/packages/create-eliza-app) - CLI tool to scaffold ElizaOS applications with zero configuration
