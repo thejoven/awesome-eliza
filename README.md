@@ -158,6 +158,9 @@ AI Agent Dev School with Shaw, using ElizaOS
 - [AI Agent Dev School 05](https://www.youtube.com/watch?v=6I9e9pJprDI) - 2024-12-10
 - [AI Agent Dev School 01 cn](https://www.youtube.com/watch?v=0CB_u6J9_Bo) - 01 (CN)
 
+## 
+Clank Tank
+- [Clank Tank Season 1 Episode 1](https://www.youtube.com/watch?v=R-oObQtsksw) - Season 1 Episode 1
 
 ## Research
 - [Exploring the Future of AI Agents in Crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance 
