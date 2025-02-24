@@ -28,34 +28,34 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [elizaOS-plugins](https://elizaos.github.io/eliza/docs/packages/plugins/) - Documentation on plugins
 
 ## Client Plugins
-- [client-auto](https://github.com/elizaOS/eliza/tree/main/packages/client-auto) - Automated trading and interaction client
-- [client-direct](https://github.com/elizaOS/eliza/tree/main/packages/client-direct) - Direct API interface for custom integrations
-- [client-discord](https://github.com/elizaOS/eliza/tree/main/packages/client-discord) - Discord integration
-- [client-farcaster](https://github.com/elizaOS/eliza/tree/main/packages/client-farcaster) - Farcaster integration
-- [client-github](https://github.com/elizaOS/eliza/tree/main/packages/client-github) - GitHub integration
-- [client-slack](https://github.com/elizaOS/eliza/tree/main/packages/client-slack) - Slack integration
-- [client-telegram](https://github.com/elizaOS/eliza/tree/main/packages/client-telegram) - Telegram integration
-- [client-Twitter](https://github.com/elizaOS/eliza/tree/main/packages/client-twitter) - Twitter integration for ElizaOS.
-- [client-lens](https://github.com/elizaOS/eliza/tree/main/packages/client-lens) - Client interface for interacting with Lens Protocol social networking features
+- [client-auto](https://github.com/elizaos-plugins/client-auto) - Automated trading and interaction client
+- [client-direct](https://github.com/elizaos-plugins/client-direct) - Direct API interface for custom integrations
+- [client-discord](https://github.com/elizaos-plugins/client-discord) - Discord integration
+- [client-farcaster](https://github.com/elizaos-plugins/client-farcaster) - Farcaster integration
+- [client-github](https://github.com/elizaos-plugins/client-github) - GitHub integration
+- [client-slack](https://github.com/elizaos-plugins/client-slack) - Slack integration
+- [client-telegram](https://github.com/elizaos-plugins/client-telegram) - Telegram integration
+- [client-Twitter](https://github.com/elizaos-plugins/client-twitter) - Twitter integration for ElizaOS.
+- [client-lens](https://github.com/elizaos-plugins/client-lens) - Client interface for interacting with Lens Protocol social networking features
 
 ## Blockchain Plugins
-- [plugin-solana](https://github.com/elizaOS/eliza/tree/main/packages/plugin-solana): Core plugin that enables comprehensive Solana blockchain interactions including token operations, trading, and DeFi integrations.
-- [plugin-abstract](https://github.com/elizaOS/eliza/tree/main/packages/plugin-abstract): Plugin for interacting with the Abstract blockchain network, enabling secure token transfers and wallet operations.
-- [plugin-aptos](https://github.com/elizaOS/eliza/tree/main/packages/plugin-aptos) - Plugin for seamless token transfers and wallet management on the Aptos blockchain with real-time price tracking
-- [plugin-avalanche](https://github.com/elizaOS/eliza/tree/main/packages/plugin-avalanche) - Plugin for DeFi operations on Avalanche including token transfers, YAK swaps, yield strategy management, and token creation
-- [plugin-coinbase](https://github.com/elizaOS/eliza/tree/main/packages/plugin-coinbase) - Comprehensive integration plugin providing access to Coinbase's trading, payment, and token management services
-- [plugin-conflux](https://github.com/elizaOS/eliza/tree/main/packages/plugin-conflux) - Plugin for interacting with Conflux Core Space and eSpace networks, enabling token transfers and ConfiPump token management
-- [plugin-cronoszkevm](https://github.com/elizaOS/eliza/tree/main/packages/plugin-cronoszkevm) - Plugin for token transfers and operations on the Cronos zkEVM network
-- [plugin-evm](https://github.com/elizaOS/eliza/tree/main/packages/plugin-evm) - Plugin providing multi-chain support for EVM-compatible blockchains with token transfers, bridging, and swapping capabilities
-- [plugin-flow](https://github.com/elizaOS/eliza/tree/main/packages/plugin-flow) - Plugin enabling token management and transfers on the Flow blockchain with Cadence integration
-- [plugin-fuel](https://github.com/elizaOS/eliza/tree/main/packages/plugin-fuel) - Plugin for interacting with the Fuel blockchain, focusing on ETH transfers on the Fuel Ignition network
-- [plugin-icp](https://github.com/elizaOS/eliza/tree/main/packages/plugin-icp) - Plugin for Internet Computer Protocol interactions including meme token creation and canister management
-- [plugin-multiversx](https://github.com/elizaOS/eliza/tree/main/packages/plugin-multiversx) - Plugin for token management and transfers on the MultiversX blockchain network
-- [plugin-near](https://github.com/elizaOS/eliza/tree/main/packages/plugin-near) - Plugin enabling token management, transfers, and swaps using Ref Finance on the NEAR Protocol
-- [plugin-starknet](https://github.com/elizaOS/eliza/tree/main/packages/plugin-starknet) - Plugin for managing trust scores, token operations, and trading on the Starknet blockchain
-- [plugin-story](https://github.com/elizaOS/eliza/tree/main/packages/plugin-story) - Plugin enabling interaction with Story Protocol's IP management and licensing system on the Odyssey testnet
-- [plugin-sui](https://github.com/elizaOS/eliza/tree/main/packages/plugin-sui)- Plugin providing essential Sui blockchain services for token operations and wallet management
-- [plugin-ton](https://github.com/elizaOS/eliza/tree/main/packages/plugin-ton) - Plugin for handling TON (Telegram Open Network) blockchain operations with wallet management and transfer capabilities
+- [plugin-solana](https://github.com/elizaos-plugins/plugin-solana): Core plugin that enables comprehensive Solana blockchain interactions including token operations, trading, and DeFi integrations.
+- [plugin-abstract](https://github.com/elizaos-plugins/plugin-abstract): Plugin for interacting with the Abstract blockchain network, enabling secure token transfers and wallet operations.
+- [plugin-aptos](https://github.com/elizaos-plugins/plugin-aptos) - Plugin for seamless token transfers and wallet management on the Aptos blockchain with real-time price tracking
+- [plugin-avalanche](https://github.com/elizaos-plugins/plugin-avalanche) - Plugin for DeFi operations on Avalanche including token transfers, YAK swaps, yield strategy management, and token creation
+- [plugin-coinbase](https://github.com/elizaos-plugins/plugin-coinbase) - Comprehensive integration plugin providing access to Coinbase's trading, payment, and token management services
+- [plugin-conflux](https://github.com/elizaos-plugins/plugin-conflux) - Plugin for interacting with Conflux Core Space and eSpace networks, enabling token transfers and ConfiPump token management
+- [plugin-cronoszkevm](https://github.com/elizaos-plugins/plugin-cronoszkevm) - Plugin for token transfers and operations on the Cronos zkEVM network
+- [plugin-evm](https://github.com/elizaos-plugins/plugin-evm) - Plugin providing multi-chain support for EVM-compatible blockchains with token transfers, bridging, and swapping capabilities
+- [plugin-flow](https://github.com/elizaos-plugins/plugin-flow) - Plugin enabling token management and transfers on the Flow blockchain with Cadence integration
+- [plugin-fuel](https://github.com/elizaos-plugins/plugin-fuel) - Plugin for interacting with the Fuel blockchain, focusing on ETH transfers on the Fuel Ignition network
+- [plugin-icp](https://github.com/elizaos-plugins/plugin-icp) - Plugin for Internet Computer Protocol interactions including meme token creation and canister management
+- [plugin-multiversx](https://github.com/elizaos-plugins/plugin-multiversx) - Plugin for token management and transfers on the MultiversX blockchain network
+- [plugin-near](https://github.com/elizaos-plugins/plugin-near) - Plugin enabling token management, transfers, and swaps using Ref Finance on the NEAR Protocol
+- [plugin-starknet](https://github.com/elizaos-plugins/plugin-starknet) - Plugin for managing trust scores, token operations, and trading on the Starknet blockchain
+- [plugin-story](https://github.com/elizaos-plugins/plugin-story) - Plugin enabling interaction with Story Protocol's IP management and licensing system on the Odyssey testnet
+- [plugin-sui](https://github.com/elizaos-plugins/plugin-sui)- Plugin providing essential Sui blockchain services for token operations and wallet management
+- [plugin-ton](https://github.com/elizaos-plugins/plugin-ton) - Plugin for handling TON (Telegram Open Network) blockchain operations with wallet management and transfer capabilities
 - [plugin-zksync-era](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-zksync-era) - Plugin for integrating ZKSync Era blockchain operations with token transfer capabilities and transaction management
 - [plugin-akash](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-akash) - Plugin for interacting with the Akash Network, enabling deployment management and cloud compute operations through ElizaOS.
 - [plugin-arthera](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-arthera) - Plugin that enables interaction with the Arthera blockchain for token transfers and wallet management through custom RPC endpoints.
@@ -69,25 +69,25 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-primus](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-primus) - Integration with the Primus blockchain network
 
 ## Other Plugins
-- [create-eliza-app](https://github.com/elizaOS/eliza/tree/main/packages/create-eliza-app) - CLI tool to scaffold ElizaOS applications with zero configuration
-- [plugin-0g](https://github.com/elizaOS/eliza/tree/main/packages/plugin-0g) - Store data using Zero Gravity (0g) protocol. Requires a 0g key
-- [plugin-3d-generation](https://github.com/elizaOS/eliza/tree/main/packages/plugin-3d-generation) - Generate 3D objects based on text prompts. Requires a FAI API key
-- [plugin-echochambers](https://github.com/elizaOS/eliza/tree/main/packages/plugin-echochambers) - Enable ElizaOS agents to interact in chat rooms
-- [plugin-ferePro](https://github.com/elizaOS/eliza/tree/main/packages/plugin-ferePro) - Enable WebSocket communication for AI-driven market insights. Requires a fereAI account
-- [plugin-gitbook](https://github.com/elizaOS/eliza/tree/main/packages/plugin-gitbook) - Plugin to query GitBook documentation
-- [plugin-goat](https://github.com/elizaOS/eliza/tree/main/packages/plugin-goat) - Add blockchain tools such as wallets, interaction with smart contracts and to hold and trade tokens to your ElizaOS agent
-- [plugin-image-generation](https://github.com/elizaOS/eliza/tree/main/packages/plugin-image-generation) - Generate an image based on text prompts
-- [plugin-intiface](https://github.com/elizaOS/eliza/tree/main/packages/plugin-intiface) - Buttplug Plugin
-- [plugin-nft-generation](https://github.com/elizaOS/eliza/tree/main/packages/plugin-nft-generation) - Plugin for handling NFT collection generation, NFT creation, and verification on the Solana blockchain
+- [create-eliza-app](https://github.com/elizaos-plugins/create-eliza-app) - CLI tool to scaffold ElizaOS applications with zero configuration
+- [plugin-0g](https://github.com/elizaos-plugins/plugin-0g) - Store data using Zero Gravity (0g) protocol. Requires a 0g key
+- [plugin-3d-generation](https://github.com/elizaos-plugins/plugin-3d-generation) - Generate 3D objects based on text prompts. Requires a FAI API key
+- [plugin-echochambers](https://github.com/elizaos-plugins/plugin-echochambers) - Enable ElizaOS agents to interact in chat rooms
+- [plugin-ferePro](https://github.com/elizaos-plugins/plugin-ferePro) - Enable WebSocket communication for AI-driven market insights. Requires a fereAI account
+- [plugin-gitbook](https://github.com/elizaos-plugins/plugin-gitbook) - Plugin to query GitBook documentation
+- [plugin-goat](https://github.com/elizaos-plugins/plugin-goat) - Add blockchain tools such as wallets, interaction with smart contracts and to hold and trade tokens to your ElizaOS agent
+- [plugin-image-generation](https://github.com/elizaos-plugins/plugin-image-generation) - Generate an image based on text prompts
+- [plugin-intiface](https://github.com/elizaos-plugins/plugin-intiface) - Buttplug Plugin
+- [plugin-nft-generation](https://github.com/elizaos-plugins/plugin-nft-generation) - Plugin for handling NFT collection generation, NFT creation, and verification on the Solana blockchain
 - [plugin-nft-collections](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-nft-collections) - Plugin for creating, managing and interacting with NFT collections across multiple blockchain networks
-- [plugin-tee](https://github.com/elizaOS/eliza/tree/main/packages/plugin-tee) - Plugin for handling Trusted Execution Environment (TEE) operations
-- [plugin-trustdb](https://github.com/elizaOS/eliza/tree/main/packages/plugin-trustdb) - SQLite database for a trust scoring system to trade tokens
-- [plugin-twitter](https://github.com/elizaOS/eliza/tree/main/packages/plugin-twitter) - Twitter integration for ElizaOS agents
-- [plugin-video-generation](https://github.com/elizaOS/eliza/tree/main/packages/plugin-video-generation) - Video generation using prompts. Requires a Luma API key
-- [plugin-web-search](https://github.com/elizaOS/eliza/tree/main/packages/plugin-web-search) - Enables web search capabilities
-- [plugin-whatsapp](https://github.com/elizaOS/eliza/tree/main/packages/plugin-whatsapp) - Whatsapp integration for ElizaOS agents
-- [plugin-bootstrap](https://github.com/elizaOS/eliza/tree/main/packages/plugin-bootstrap)
-- [plugin-node](https://github.com/elizaOS/eliza/tree/main/packages/plugin-node) - Provides core Node.js capabilities including file operations, media processing, and cloud integrations.
+- [plugin-tee](https://github.com/elizaos-plugins/plugin-tee) - Plugin for handling Trusted Execution Environment (TEE) operations
+- [plugin-trustdb](https://github.com/elizaos-plugins/plugin-trustdb) - SQLite database for a trust scoring system to trade tokens
+- [plugin-twitter](https://github.com/elizaos-plugins/plugin-twitter) - Twitter integration for ElizaOS agents
+- [plugin-video-generation](https://github.com/elizaos-plugins/plugin-video-generation) - Video generation using prompts. Requires a Luma API key
+- [plugin-web-search](https://github.com/elizaos-plugins/plugin-web-search) - Enables web search capabilities
+- [plugin-whatsapp](https://github.com/elizaos-plugins/plugin-whatsapp) - Whatsapp integration for ElizaOS agents
+- [plugin-bootstrap](https://github.com/elizaos-plugins/plugin-bootstrap)
+- [plugin-node](https://github.com/elizaos-plugins/plugin-node) - Provides core Node.js capabilities including file operations, media processing, and cloud integrations.
 - [plugin-allora](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-allora) - Integrates with Allora Network to provide real-time AI predictions and inferences for topics like ETH price.
 - [plugin-asterai](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-asterai) - Enables Eliza agents to interact with asterai's ecosystem of marketplace plugins and agents.
 - [plugin-obsidian](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-obsidian) - Enables integration with Obsidian vaults for note management and knowledge base creation.
