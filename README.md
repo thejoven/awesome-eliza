@@ -163,6 +163,7 @@ AI meets venture capital in a high-stakes, high-energy pitch competition.
 - [Clank Tank Season 1 Episode 1](https://www.youtube.com/watch?v=R-oObQtsksw) - Season 1 Episode 1
 
 ## Research
+- [The Future of AI Agents/w Shaw](https://x.com/thejoven_com/status/1894981534815527187) - The Future of AI Agents/w Shaw
 - [Exploring the Future of AI Agents in Crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance 
 - [Almost all AI agents are just ‘memecoins that talk’](https://www.binance.com/en/square/post/18443194059729) - Binance
 
