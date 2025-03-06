@@ -25,12 +25,10 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 ## Document and Quickstart Guides
 - [elizaOS-document](https://elizaOS.github.io/eliza/docs/intro) - Documentation for ElizaOS
 - [elizaOS-quickstart](https://elizaOS.github.io/eliza/docs/quickstart/) - Quickstart Guide
-- [elizaOS-plugins](https://elizaos.github.io/eliza/docs/packages/plugins/) - Documentation on plugins
+- [elizaOS-plugins](https://elizaos.github.io/eliza/docs/core/plugins/) - Documentation on plugins
 
 ## Client Plugins
-- [client-auto](https://github.com/elizaos-plugins/client-auto) - Automated trading and interaction client
-- [client-direct](https://github.com/elizaos-plugins/client-direct) - Direct API interface for custom integrations
-- [client-discord](https://github.com/elizaos-plugins/client-discord) - Discord integration
+- [client-discord](https://github.com/elizaos-plugins/client-discor) - Discord integration
 - [client-farcaster](https://github.com/elizaos-plugins/client-farcaster) - Farcaster integration
 - [client-github](https://github.com/elizaos-plugins/client-github) - GitHub integration
 - [client-slack](https://github.com/elizaos-plugins/client-slack) - Slack integration
@@ -69,7 +67,6 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-primus](https://github.com/elizaos-plugins/plugin-primus) - Integration with the Primus blockchain network
 
 ## Other Plugins
-- [create-eliza-app](https://github.com/elizaos-plugins/create-eliza-app) - CLI tool to scaffold ElizaOS applications with zero configuration
 - [plugin-0g](https://github.com/elizaos-plugins/plugin-0g) - Store data using Zero Gravity (0g) protocol. Requires a 0g key
 - [plugin-3d-generation](https://github.com/elizaos-plugins/plugin-3d-generation) - Generate 3D objects based on text prompts. Requires a FAI API key
 - [plugin-echochambers](https://github.com/elizaos-plugins/plugin-echochambers) - Enable ElizaOS agents to interact in chat rooms
@@ -129,9 +126,8 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [elizas world](https://elizas.world/) - List of all agent tokens with contributions
 - [active Bounties](https://elizaOS.github.io/website) - Bounties list
 - [elizas-list](https://github.com/elizaOS/elizas-list) - add your ElizaOS project into eliza's list
-- [contributors-profiles](https://elizaOS.github.io/profiles/) - GitHub profiles on Contributors and what they've been working on
+- [Contributors Leaderboard](https://elizaOS.github.io) - GitHub profiles on Contributors and what they've been working on
 - [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza character generator for a character sheet
-- [eliza.gg](https://eliza.gg/) - Chatbot to ask anything about Eliza, trained on ElizaOS documents
 
 ## Videoes and Spaces
 - [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
