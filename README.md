@@ -67,6 +67,7 @@ A curated list of awesome things related to <a href='https://github.com/elizaOS/
 - [plugin-quai](https://github.com/elizaos-plugins/plugin-quai) -  Integration with the Quai Network blockchain platform
 - [plugin-genlayer](https://github.com/elizaos-plugins/plugin-genlayer) - Plugin for the GenLayer blockchain platform
 - [plugin-primus](https://github.com/elizaos-plugins/plugin-primus) - Integration with the Primus blockchain network
+- [plugin-kaia](https://github.com/kaiachain/kaia-eliza-plugin) - Plugin for interacting with Kaia Blockchain network, enabling token transfers, faucets, DeFi and blockchain information retrieval.
 
 ## Other Plugins
 - [create-eliza-app](https://github.com/elizaos-plugins/create-eliza-app) - CLI tool to scaffold ElizaOS applications with zero configuration
