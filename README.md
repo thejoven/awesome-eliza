@@ -6,300 +6,314 @@ A curated list of awesome things related to the [eliza framework](https://github
   <img src="https://raw.githubusercontent.com/elizaos/awesome-eliza/refs/heads/main/assets/banner.png"</img>
 </p>
 
+---
+
+## Table of Contents
+
+- [Official Developer Resources](#official-developer-resources)
+- [Tutorials and Learning Resources](#tutorials-and-learning-resources)
+- [Tools](#tools)
+- [Integrations](#integrations)
+- [Adapters](#adapters)
+- [Clients](#clients)
+- [Plugins](#plugins)
+  - [Blockchain & DeFi](#blockchain--defi)
+  - [Crypto Trading & Exchanges](#crypto-trading--exchanges)
+  - [AI & Data](#ai--data)
+  - [Media & Content](#media--content)
+  - [Social & Communication](#social--communication)
+  - [Infrastructure & Security](#infrastructure--security)
+  - [Tools & Utilities](#tools--utilities)
+- [Community](#community)
+- [Videos and Spaces](#videos-and-spaces)
+  - [What Did You Get Done This Week?](#what-did-you-get-done-this-week)
+- [Research](#research)
+- [Contributors](#contributors)
+- [Need maintainer / Deprecated](#need-maintainer--deprecated)
+
+---
+
 ## Official Developer Resources
 
 - [elizaOS GitHub Repository](https://github.com/elizaos/eliza) - The main repository for elizaOS, an open-source AI agent framework.
 - [elizaOS Documentation](https://elizaos.github.io/eliza/) - Official documentation and guides
 - [Sample Characters](https://github.com/elizaos/characters) - Sample character templates and implementations
-- [Eliza Technical Report/Whitepaper](https://arxiv.org/pdf/2501.06781) - Academic paper on ElizaOS architecture and capabilities
 - [elizaOS Plugin Registry](https://github.com/elizaos-plugins/registry) - JSON Registry for all the plugins in the elizaOS ecosystem
 - [Contributor Leaderboard](https://elizaos.github.io) - See all the contributors for elizaos/eliza, view daily GitHub summaries
 
 ## Tutorials and Learning Resources
 
-- [AI Agent Dev School Series](https://www.youtube.com/watch?v=X1aFEOaGcYE) - Comprehensive tutorial series by Shaw
 - [Quickstart Guide](https://elizaos.github.io/eliza/quickstart) - Get up and running quickly with elizaOS
+- [Building a Social AI Agent in 15 Minutes](https://www.youtube.com/embed/6PZVwNTl5hI?si=0zB3OvYU4KiRQTxI) - Nader's Tutorial
+- [Creating an AI Agent with Your Own Personality](https://www.youtube.com/embed/uouSdtcWXTQ?si=cm13L4T7DQUMXd0C) - Nader's Tutorial
+- [How to Build an API Plugin](https://www.youtube.com/embed/25FxjscBHuo) - Nader's Tutorial ([Code](https://github.com/dabit3/eliza-nasa-plugin))
+- [AI Agent Dev School 01](https://www.youtube.com/watch?v=ArptLpQiKfI) - Introduction and Foundations (Part 1) [CN](https://www.youtube.com/watch?v=0CB_u6J9_Bo)
+- [AI Agent Dev School 01 cont](https://www.youtube.com/watch?v=AC3h_KzLARo) - Introduction and Foundations (Part 1 cont)
+- [AI Agent Dev School 02](https://www.youtube.com/watch?v=X1aFEOaGcYE) - Deep Dive into Actions, Providers, and Evaluators (Standard Definition)
+- [AI Agent Dev School 03](https://www.youtube.com/watch?v=Y1DiqSVy4aU) - Building a User Data Extraction Agent
+- [AI Agent Dev School 04](https://www.youtube.com/watch?v=6I9e9pJprDI) - AI Pizza: Hacking Eliza for Domino's Delivery (plus TEE Deep Dive)
 
 ## Tools
 - [twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
-- [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza character generator for a character sheet
-  
+- [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza characterfile generator, add your own API keys
+- [Fleek.xyz](https://fleek.xyz/eliza/) - Deploy Eliza agents in one click on a hosted platform
+
+## Integrations
+- [Hyperfy](https://hyperfy.how/guides/ai/agents/) - agent creation, autonomous behavior, NPC development in open source 3d web
+- [Nifty Island]()
 
 ---
 
 ## Adapters
 
-Database and storage adapters for ElizaOS:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| MongoDB | Database adapter for MongoDB enabling document storage with query capabilities | [GitHub](https://github.com/elizaos-plugins/adapter-mongodb) |
-| Postgres | Database adapter for PostgreSQL with full relational database capabilities | [GitHub](https://github.com/elizaos-plugins/adapter-postgres) |
-| Pglite | Lightweight PostgreSQL adapter for embedded database applications | [GitHub](https://github.com/elizaos-plugins/adapter-pglite) |
-| Qdrant | Vector database adapter for Qdrant with similarity search capabilities | [GitHub](https://github.com/elizaos-plugins/adapter-qdrant) |
-| SQLite | File-based SQL database adapter for lightweight local storage | [GitHub](https://github.com/elizaos-plugins/adapter-sqlite) |
-| Supabase | Database adapter for Supabase with PostgreSQL and realtime capabilities | [GitHub](https://github.com/elizaos-plugins/adapter-supabase) |
+- [MongoDB](https://github.com/elizaos-plugins/adapter-mongodb) - Database adapter for MongoDB enabling document storage with query capabilities
+- [Postgres](https://github.com/elizaos-plugins/adapter-postgres) - Database adapter for PostgreSQL with full relational database capabilities
+- [Pglite](https://github.com/elizaos-plugins/adapter-pglite) - Lightweight PostgreSQL adapter for embedded database applications
+- [Qdrant](https://github.com/elizaos-plugins/adapter-qdrant) - Vector database adapter for Qdrant with similarity search capabilities
+- [SQLite](https://github.com/elizaos-plugins/adapter-sqlite) - File-based SQL database adapter for lightweight local storage
+- [Supabase](https://github.com/elizaos-plugins/adapter-supabase) - Database adapter for Supabase with PostgreSQL and realtime capabilities
 
 ## Clients
 
-Client integrations for different platforms:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| Discord | Discord integration with messaging and community interaction capabilities | [GitHub](https://github.com/elizaos-plugins/client-discord) |
-| Farcaster | Client for Farcaster decentralized social media protocol | [GitHub](https://github.com/elizaos-plugins/client-farcaster) |
-| GitHub | GitHub client for repository management and code integration | [GitHub](https://github.com/elizaos-plugins/client-github) |
-| Lens | Client for Lens Protocol decentralized social networking | [GitHub](https://github.com/elizaos-plugins/client-lens) |
-| Slack | Slack integration with messaging and workspace collaboration features | [GitHub](https://github.com/elizaos-plugins/client-slack) |
-| Telegram | Telegram messaging client with bot and channel integration capabilities | [GitHub](https://github.com/elizaos-plugins/client-telegram) |
-| Twitter | Twitter/X client for posting and monitoring social media activity | [GitHub](https://github.com/elizaos-plugins/client-twitter) |
-| Tako | Client for the Tako protocol enabling cross-platform social engagement | [GitHub](https://github.com/takoprotocol/client-tako) |
-| Alexa | Integration with Amazon Alexa devices for voice-controlled agent interactions | [GitHub](https://github.com/elizaos-plugins/client-alexa) |
-| Deva | Communication with Deva AI systems for advanced conversational capabilities | [GitHub](https://github.com/elizaos-plugins/client-deva) |
-| Eliza Home | Integration with Eliza Home environment for home automation | [GitHub](https://github.com/elizaos-plugins/client-eliza-home) |
-| Instagram | Instagram integration with support for media posting and interactions | [GitHub](https://github.com/elizaos-plugins/client-instagram) |
-| Telegram Account | Advanced Telegram account management beyond basic bot functionality | [GitHub](https://github.com/elizaos-plugins/client-telegram-account) |
-| XMTP | Secure, decentralized, and end-to-end encrypted messaging through XMTP protocol | [GitHub](https://github.com/elizaos-plugins/client-xmtp) |
-
+- [Discord](https://github.com/elizaos-plugins/client-discord) - Discord integration with messaging and community interaction capabilities
+- [Farcaster](https://github.com/elizaos-plugins/client-farcaster) - Client for Farcaster decentralized social media protocol
+- [GitHub](https://github.com/elizaos-plugins/client-github) - GitHub client for repository management and code integration
+- [Lens](https://github.com/elizaos-plugins/client-lens) - Client for Lens Protocol decentralized social networking
+- [Slack](https://github.com/elizaos-plugins/client-slack) - Slack integration with messaging and workspace collaboration features
+- [Telegram](https://github.com/elizaos-plugins/client-telegram) - Telegram messaging client with bot and channel integration capabilities
+- [Twitter](https://github.com/elizaos-plugins/client-twitter) - Twitter/X client for posting and monitoring social media activity
+- [Tako](https://github.com/takoprotocol/client-tako) - Client for the Tako protocol enabling cross-platform social engagement
+- [Alexa](https://github.com/elizaos-plugins/client-alexa) - Integration with Amazon Alexa devices for voice-controlled agent interactions
+- [Deva](https://github.com/elizaos-plugins/client-deva) - Communication with Deva AI systems for advanced conversational capabilities
+- [Eliza Home](https://github.com/elizaos-plugins/client-eliza-home) - Integration with Eliza Home environment for home automation
+- [Instagram](https://github.com/elizaos-plugins/client-instagram) - Instagram integration with support for media posting and interactions
+- [Telegram Account](https://github.com/elizaos-plugins/client-telegram-account) - Advanced Telegram account management beyond basic bot functionality
+- [XMTP](https://github.com/elizaos-plugins/client-xmtp) - Secure, decentralized, and end-to-end encrypted messaging through XMTP protocol
+	
 ## Plugins
 
 ### Blockchain & DeFi
 
-Blockchain integration and DeFi functionality:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| 0x | Token swaps through 0x Protocol across multiple EVM blockchains | [GitHub](https://github.com/elizaos-plugins/plugin-0x) |
-| Aptos | Token transfers and wallet management on the Aptos blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-aptos) |
-| Arthera | Transactions and token operations on the Arthera network | [GitHub](https://github.com/elizaos-plugins/plugin-arthera) |
-| Avalanche | DeFi operations and token management on Avalanche blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-avalanche) |
-| BNB | Interactions with BNB Chain ecosystem including BNB Smart Chain | [GitHub](https://github.com/elizaos-plugins/plugin-bnb) |
-| Cosmos | Token management and transfers using Cosmos-compatible blockchains | [GitHub](https://github.com/elizaos-plugins/plugin-cosmos) |
-| Cronos | EVM plugin functionality for Cronos blockchain with native CRO token support | [GitHub](https://github.com/elizaos-plugins/plugin-cronos) |
-| CronosZKEVM | Token transfers and interactions on the Cronos zkEVM network | [GitHub](https://github.com/elizaos-plugins/plugin-cronoszkevm) |
-| EVM | Comprehensive functionality for interacting with EVM-compatible chains | [GitHub](https://github.com/elizaos-plugins/plugin-evm) |
-| Flow | Flow blockchain interactions for token transfers and smart contracts | [GitHub](https://github.com/fixes-world/plugin-flow) |
-| Flow Advanced | Advanced plugin for Flow Blockchain operations | [GitHub](https://github.com/fixes-world/plugin-flow-advanced) |
-| Fuel | ETH transfers and interactions on the Fuel Ignition network | [GitHub](https://github.com/elizaos-plugins/plugin-fuel) |
-| GOAT | Blockchain capabilities through the Great Onchain Agent Toolkit | [GitHub](https://github.com/elizaos-plugins/plugin-goat) |
-| Hyperliquid | Spot trading capabilities on the Hyperliquid DEX | [GitHub](https://github.com/elizaos-plugins/plugin-hyperliquid) |
-| ICP | Internet Computer Protocol interactions for token operations | [GitHub](https://github.com/elizaos-plugins/plugin-icp) |
-| Lightlink | Ethereum layer 2 operations on the Lightlink blockchain network | [GitHub](https://github.com/lightlink-network/plugin-lightlink) |
-| Massa | Interactions with the Massa blockchain ecosystem | [GitHub](https://github.com/elizaos-plugins/plugin-massa) |
-| Mina | Mina blockchain interactions for token transfers and wallet management | [GitHub](https://github.com/elizaos-plugins/plugin-mina) |
-| Movement | Movement Network blockchain functionality for token operations | [GitHub](https://github.com/elizaos-plugins/plugin-movement) |
-| MultiversX | Token operations and transfers on the MultiversX blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-multiversx) |
-| NEAR | Token management and transfers on the NEAR Protocol blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-near) |
-| Sei | Token transfers and operations on the Sei blockchain network | [GitHub](https://github.com/elizaos-plugins/plugin-sei) |
-| Solana | Comprehensive DeFi operations on the Solana blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-solana) |
-| Solana AgentKit | Interaction with Solana blockchain through AgentKit | [GitHub](https://github.com/elizaos-plugins/plugin-solana-agentkit) |
-| Solana Agent Kit | Token operations and NFT functionality on Solana | [GitHub](https://github.com/elizaos-plugins/plugin-solana-agent-kit) |
-| Solana V2 | Modern Solana integrations with liquidity position management | [GitHub](https://github.com/elizaos-plugins/plugin-solana-v2) |
-| Starknet | Token and DeFi operations on the Starknet blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-starknet) |
-| Sui | Token transfers and wallet operations on the Sui blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-sui) |
-| TON | TON blockchain operations and wallet functionality | [GitHub](https://github.com/elizaos-plugins/plugin-ton) |
-| zkSync Era | Token transfers and operations on the zkSync Era network | [GitHub](https://github.com/elizaos-plugins/plugin-zksync-era) |
-| Zilliqa | Zilliqa blockchain capabilities through the GOAT framework | [GitHub](https://github.com/elizaos-plugins/plugin-zilliqa) |
-| Initia | Token transfers on the Initia blockchain with INIT token support | [GitHub](https://github.com/elizaos-plugins/plugin-initia) |
-| Injective | Interaction with the Injective blockchain through module-based actions | [GitHub](https://github.com/elizaos-plugins/plugin-injective) |
-| Abstract | Token transfers and operations on the Abstract blockchain network | [GitHub](https://github.com/elizaos-plugins/plugin-abstract) |
-| Avail | Interacts with Avail DA network for data availability and transfers | [GitHub](https://github.com/elizaos-plugins/plugin-avail) |
-| B2 | Token transfers on the B2-Network blockchain with B2-BTC support | [GitHub](https://github.com/elizaos-plugins/plugin-b2) |
-| Conflux | Token transfers and interactions on the Conflux blockchain network | [GitHub](https://github.com/elizaos-plugins/plugin-conflux) |
-| Genlayer | Contract deployment and interactions on the GenLayer protocol | [GitHub](https://github.com/elizaos-plugins/plugin-genlayer) |
-| Form | Form chain capabilities for curves-based token economics | [GitHub](https://github.com/elizaos-plugins/plugin-form) |
-| Multichain | Cross-chain interaction capabilities for multiple blockchain networks | [GitHub](https://github.com/near-agent/elizaos-plugin-multichain) |
-| Quai | Token transfers and blockchain interactions on Quai Network | [GitHub](https://github.com/elizaos-plugins/plugin-quai) |
-| Omniflix | Interactions with the OmniFlix Network blockchain | [GitHub](https://github.com/elizaos-plugins/plugin-omniflix) |
-| Viction | Token operations, trading, and DeFi integrations using Viction | [GitHub](https://github.com/BuildOnViction/plugin-viction) |
-| Squid Router | Cross-chain token swaps between blockchains using Squid Router | [GitHub](https://github.com/elizaos-plugins/plugin-squid-router) |
-| Router Nitro | Cross-chain token transfers using Router Nitro bridge | [GitHub](https://github.com/elizaos-plugins/plugin-router-nitro) |
-| Rabbi Trader | Automated cryptocurrency trading on Solana with trust scoring | [GitHub](https://github.com/elizaos-plugins/plugin-rabbi-trader) |
-| Trikon | Token transfers for Trikon with wallet management on ZKsync Era | [GitHub](https://github.com/elizaos-plugins/plugin-trikon) |
-| AgentKit | CDP AgentKit tools for NFT and token management on blockchains | [GitHub](https://github.com/elizaos-plugins/plugin-agentkit) |
+- [0x](https://github.com/elizaos-plugins/plugin-0x) - Token swaps through 0x Protocol across multiple EVM blockchains
+- [Aptos](https://github.com/elizaos-plugins/plugin-aptos) - Token transfers and wallet management on the Aptos blockchain
+- [Arthera](https://github.com/elizaos-plugins/plugin-arthera) - Transactions and token operations on the Arthera network
+- [Avalanche](https://github.com/elizaos-plugins/plugin-avalanche) - DeFi operations and token management on Avalanche blockchain
+- [BNB](https://github.com/elizaos-plugins/plugin-bnb) - Interactions with BNB Chain ecosystem including BNB Smart Chain
+- [Cosmos](https://github.com/elizaos-plugins/plugin-cosmos) - Token management and transfers using Cosmos-compatible blockchains
+- [Cronos](https://github.com/elizaos-plugins/plugin-cronos) - EVM plugin functionality for Cronos blockchain with native CRO token support
+- [CronosZKEVM](https://github.com/elizaos-plugins/plugin-cronoszkevm) - Token transfers and interactions on the Cronos zkEVM network
+- [EVM](https://github.com/elizaos-plugins/plugin-evm) - Comprehensive functionality for interacting with EVM-compatible chains
+- [Flow](https://github.com/fixes-world/plugin-flow) - Flow blockchain interactions for token transfers and smart contracts
+- [Flow Advanced](https://github.com/fixes-world/plugin-flow-advanced) - Advanced plugin for Flow Blockchain operations
+- [Fuel](https://github.com/elizaos-plugins/plugin-fuel) - ETH transfers and interactions on the Fuel Ignition network
+- [GOAT](https://github.com/elizaos-plugins/plugin-goat) - Blockchain capabilities through the Great Onchain Agent Toolkit
+- [Hyperliquid](https://github.com/elizaos-plugins/plugin-hyperliquid) - Spot trading capabilities on the Hyperliquid DEX
+- [ICP](https://github.com/elizaos-plugins/plugin-icp) - Internet Computer Protocol interactions for token operations
+- [Lightlink](https://github.com/lightlink-network/plugin-lightlink) - Ethereum layer 2 operations on the Lightlink blockchain network
+- [Massa](https://github.com/elizaos-plugins/plugin-massa) - Interactions with the Massa blockchain ecosystem
+- [Mina](https://github.com/elizaos-plugins/plugin-mina) - Mina blockchain interactions for token transfers and wallet management
+- [Movement](https://github.com/elizaos-plugins/plugin-movement) - Movement Network blockchain functionality for token operations
+- [MultiversX](https://github.com/elizaos-plugins/plugin-multiversx) - Token operations and transfers on the MultiversX blockchain
+- [NEAR](https://github.com/elizaos-plugins/plugin-near) - Token management and transfers on the NEAR Protocol blockchain
+- [Sei](https://github.com/elizaos-plugins/plugin-sei) - Token transfers and operations on the Sei blockchain network
+- [Solana](https://github.com/elizaos-plugins/plugin-solana) - Comprehensive DeFi operations on the Solana blockchain
+- [Solana AgentKit](https://github.com/elizaos-plugins/plugin-solana-agentkit) - Interaction with Solana blockchain through AgentKit
+- [Solana Agent Kit](https://github.com/elizaos-plugins/plugin-solana-agent-kit) - Token operations and NFT functionality on Solana
+- [Solana V2](https://github.com/elizaos-plugins/plugin-solana-v2) - Modern Solana integrations with liquidity position management
+- [Starknet](https://github.com/elizaos-plugins/plugin-starknet) - Token and DeFi operations on the Starknet blockchain
+- [Sui](https://github.com/elizaos-plugins/plugin-sui) - Token transfers and wallet operations on the Sui blockchain
+- [TON](https://github.com/elizaos-plugins/plugin-ton) - TON blockchain operations and wallet functionality
+- [zkSync Era](https://github.com/elizaos-plugins/plugin-zksync-era) - Token transfers and operations on the zkSync Era network
+- [Zilliqa](https://github.com/elizaos-plugins/plugin-zilliqa) - Zilliqa blockchain capabilities through the GOAT framework
+- [Initia](https://github.com/elizaos-plugins/plugin-initia) - Token transfers on the Initia blockchain with INIT token support
+- [Injective](https://github.com/elizaos-plugins/plugin-injective) - Interaction with the Injective blockchain through module-based actions
+- [Abstract](https://github.com/elizaos-plugins/plugin-abstract) - Token transfers and operations on the Abstract blockchain network
+- [Avail](https://github.com/elizaos-plugins/plugin-avail) - Interacts with Avail DA network for data availability and transfers
+- [B2](https://github.com/elizaos-plugins/plugin-b2) - Token transfers on the B2-Network blockchain with B2-BTC support
+- [Conflux](https://github.com/elizaos-plugins/plugin-conflux) - Token transfers and interactions on the Conflux blockchain network
+- [Genlayer](https://github.com/elizaos-plugins/plugin-genlayer) - Contract deployment and interactions on the GenLayer protocol
+- [Form](https://github.com/elizaos-plugins/plugin-form) - Form chain capabilities for curves-based token economics
+- [Multichain](https://github.com/near-agent/elizaos-plugin-multichain) - Cross-chain interaction capabilities for multiple blockchain networks
+- [Quai](https://github.com/elizaos-plugins/plugin-quai) - Token transfers and blockchain interactions on Quai Network
+- [Omniflix](https://github.com/elizaos-plugins/plugin-omniflix) - Interactions with the OmniFlix Network blockchain
+- [Viction](https://github.com/BuildOnViction/plugin-viction) - Token operations, trading, and DeFi integrations using Viction
+- [Squid Router](https://github.com/elizaos-plugins/plugin-squid-router) - Cross-chain token swaps between blockchains using Squid Router
+- [Router Nitro](https://github.com/elizaos-plugins/plugin-router-nitro) - Cross-chain token transfers using Router Nitro bridge
+- [Rabbi Trader](https://github.com/elizaos-plugins/plugin-rabbi-trader) - Automated cryptocurrency trading on Solana with trust scoring
+- [Trikon](https://github.com/elizaos-plugins/plugin-trikon) - Token transfers for Trikon with wallet management on ZKsync Era
+- [AgentKit](https://github.com/elizaos-plugins/plugin-agentkit) - CDP AgentKit tools for NFT and token management on blockchains
 
 ### Crypto Trading & Exchanges
 
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| Binance | Cryptocurrency trading and price checking via Binance API | [GitHub](https://github.com/elizaos-plugins/plugin-binance) |
-| CCXT | Cryptocurrency trading and arbitrage across multiple exchanges | [GitHub](https://github.com/pranavjadhav1363/plugin-ccxt) |
-| Coinbase | Integration with Coinbase's various APIs and trading services | [GitHub](https://github.com/elizaos-plugins/plugin-coinbase) |
-| CoinGecko | Cryptocurrency price data and market information from CoinGecko | [GitHub](https://github.com/elizaos-plugins/plugin-coingecko) |
-| CoinMarketCap | Cryptocurrency price checking using CoinMarketCap's API | [GitHub](https://github.com/elizaos-plugins/plugin-coinmarketcap) |
-| Compass | Integration with Compass API for executing operations on DeFi protocols | [GitHub](https://github.com/CompassLabs/plugin-compass) |
-| Desk Exchange | Integration with DESK Exchange for perpetual futures trading | [GitHub](https://github.com/elizaos-plugins/plugin-desk-exchange) |
-| Dexscreener | DexScreener's token data for price information and market trends | [GitHub](https://github.com/elizaos-plugins/plugin-dexscreener) |
-| Birdeye | DeFi and token analytics through Birdeye's API | [GitHub](https://github.com/elizaos-plugins/plugin-birdeye) |
-| Merkle | MerkleTrade platform for trading operations with API-based price tracking | [GitHub](https://github.com/merkle-trade/merkle-eliza-plugin) |
-| OKX | Trading and asset management through OKX exchange API | [GitHub](https://github.com/elizaos-plugins/plugin-okx) |
-| Holdstation | Token swapping on Holdstation DEX with ZKsync Era support | [GitHub](https://github.com/elizaos-plugins/plugin-holdstation) |
-| Arbitrage | Identifies and executes cryptocurrency arbitrage opportunities | [GitHub](https://github.com/elizaos-plugins/plugin-arbitrage) |
-| Grix | DeFi options data fetching and price analysis through Grix Finance API | [GitHub](https://github.com/grixprotocol/plugin-grix) |
-| Pyth Data | Real-time price feeds and data streams across multiple asset classes | [GitHub](https://github.com/elizaos-plugins/plugin-pyth-data) |
-| Zapper | Portfolio tracking and DeFi position management across multiple chains | [GitHub](https://github.com/ben-dh3/plugin-zapper) |
-| Zerion | Wallet portfolio and position data using the Zerion API | [GitHub](https://github.com/elizaos-plugins/plugin-zerion) |
-| Quick Intel | Token security audits and market analysis across multiple chains | [GitHub](https://github.com/elizaos-plugins/plugin-quick-intel) |
-| FerePro | WebSocket communication with FerePro API for market insights | [GitHub](https://github.com/elizaos-plugins/plugin-ferePro) |
-| Messari AI Toolkit | Crypto market research capabilities using Messari's AI Toolkit | [GitHub](https://github.com/messari/plugin-messari-ai-toolkit) |
-| Moralis | Real-time DeFi data including trading pairs and price history | [GitHub](https://github.com/elizaos-plugins/plugin-moralis) |
-| GoPlus | On-chain security checks through the GoPlus API integration | [GitHub](https://github.com/elizaos-plugins/plugin-goplus) |
-| Ankr | Blockchain data queries for wallet information and token analytics | [GitHub](https://github.com/elizaos-plugins/plugin-ankr) |
-| Chainbase | Natural language interactions with blockchain data across networks | [GitHub](https://github.com/elizaos-plugins/plugin-chainbase) |
-| Edwin | Interaction with Edwin tools for DeFi operations | [GitHub](https://github.com/elizaos-plugins/plugin-edwin) |
+- [Binance](https://github.com/elizaos-plugins/plugin-binance) - Cryptocurrency trading and price checking via Binance API
+- [CCXT](https://github.com/pranavjadhav1363/plugin-ccxt) - Cryptocurrency trading and arbitrage across multiple exchanges
+- [Coinbase](https://github.com/elizaos-plugins/plugin-coinbase) - Integration with Coinbase's various APIs and trading services
+- [CoinGecko](https://github.com/elizaos-plugins/plugin-coingecko) - Cryptocurrency price data and market information from CoinGecko
+- [CoinMarketCap](https://github.com/elizaos-plugins/plugin-coinmarketcap) - Cryptocurrency price checking using CoinMarketCap's API
+- [Compass](https://github.com/CompassLabs/plugin-compass) - Integration with Compass API for executing operations on DeFi protocols
+- [Desk Exchange](https://github.com/elizaos-plugins/plugin-desk-exchange) - Integration with DESK Exchange for perpetual futures trading
+- [Dexscreener](https://github.com/elizaos-plugins/plugin-dexscreener) - DexScreener's token data for price information and market trends
+- [Birdeye](https://github.com/elizaos-plugins/plugin-birdeye) - DeFi and token analytics through Birdeye's API
+- [Merkle](https://github.com/merkle-trade/merkle-eliza-plugin) - MerkleTrade platform for trading operations with API-based price tracking
+- [OKX](https://github.com/elizaos-plugins/plugin-okx) - Trading and asset management through OKX exchange API
+- [Holdstation](https://github.com/elizaos-plugins/plugin-holdstation) - Token swapping on Holdstation DEX with ZKsync Era support
+- [Arbitrage](https://github.com/elizaos-plugins/plugin-arbitrage) - Identifies and executes cryptocurrency arbitrage opportunities
+- [Grix](https://github.com/grixprotocol/plugin-grix) - DeFi options data fetching and price analysis through Grix Finance API
+- [Pyth Data](https://github.com/elizaos-plugins/plugin-pyth-data) - Real-time price feeds and data streams across multiple asset classes
+- [Zapper](https://github.com/ben-dh3/plugin-zapper) - Portfolio tracking and DeFi position management across multiple chains
+- [Zerion](https://github.com/elizaos-plugins/plugin-zerion) - Wallet portfolio and position data using the Zerion API
+- [Quick Intel](https://github.com/elizaos-plugins/plugin-quick-intel) - Token security audits and market analysis across multiple chains
+- [FerePro](https://github.com/elizaos-plugins/plugin-ferePro) - WebSocket communication with FerePro API for market insights
+- [Messari AI Toolkit](https://github.com/messari/plugin-messari-ai-toolkit) - Crypto market research capabilities using Messari's AI Toolkit
+- [Moralis](https://github.com/elizaos-plugins/plugin-moralis) - Real-time DeFi data including trading pairs and price history
+- [GoPlus](https://github.com/elizaos-plugins/plugin-goplus) - On-chain security checks through the GoPlus API integration
+- [Ankr](https://github.com/elizaos-plugins/plugin-ankr) - Blockchain data queries for wallet information and token analytics
+- [Chainbase](https://github.com/elizaos-plugins/plugin-chainbase) - Natural language interactions with blockchain data across networks
+- [Edwin](https://github.com/elizaos-plugins/plugin-edwin) - Interaction with Edwin tools for DeFi operations
 
 ### AI & Data
 
-AI and data processing capabilities:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| Allora | Real-time AI inferences from Allora Network for market predictions | [GitHub](https://github.com/elizaos-plugins/plugin-allora) |
-| Asterai | Integration with asterai.io plugins and agents for enhanced AI capabilities | [GitHub](https://github.com/elizaos-plugins/plugin-asterai) |
-| ATTPs | Verification of agent activities using proof generation and validation | [GitHub](https://github.com/APRO-com/plugin-ATTPs) |
-| Autonome | Launches and manages new Eliza agents through the Autonome platform | [GitHub](https://github.com/elizaos-plugins/plugin-autonome) |
-| Bittensor | Integration with BitMind's API for accessing AI services on Bittensor | [GitHub](https://github.com/elizaos-plugins/plugin-bittensor) |
-| Devin | Integration with Devin API for automated engineering assistance | [GitHub](https://github.com/elizaos-plugins/plugin-devin) |
-| Isaacx | Advanced AI reasoning and cognitive modeling plugin | [GitHub](https://github.com/isaacx0/plugin-isaacx) |
-| Mind Network | Integration with Mind Network Hubs for secure, privacy-preserving voting | [GitHub](https://github.com/elizaos-plugins/plugin-mind-network) |
-| NVIDIA NIM | NVIDIA's AI foundation models for content analysis and safety checks | [GitHub](https://github.com/elizaos-plugins/plugin-nvidia-nim) |
-| OpenAI | Integration with OpenAI's GPT models for automated text generation | [GitHub](https://github.com/elizaos-plugins/plugin-openai) |
-| Galadriel | Verified inference API for on-chain agent verification | [GitHub](https://github.com/elizaos-plugins/plugin-galadriel) |
-| LLaMA | Local LLM capabilities using LLaMA models with CPU and GPU support | [GitHub](https://github.com/elizaos-plugins/plugin-llama) |
-| D.a.t.a | Data processing with authentication and trust scoring | [GitHub](https://github.com/carv-protocol/plugin-d.a.t.a) |
-| AlphaNeural | Neural network capabilities for AI agents | [GitHub](https://github.com/alphaneuralai/plugin-alphaneural) |
+- [Allora](https://github.com/elizaos-plugins/plugin-allora) - Real-time AI inferences from Allora Network for market predictions
+- [Asterai](https://github.com/elizaos-plugins/plugin-asterai) - Integration with asterai.io plugins and agents for enhanced AI capabilities
+- [ATTPs](https://github.com/APRO-com/plugin-ATTPs) - Verification of agent activities using proof generation and validation
+- [Autonome](https://github.com/elizaos-plugins/plugin-autonome) - Launches and manages new Eliza agents through the Autonome platform
+- [Bittensor](https://github.com/elizaos-plugins/plugin-bittensor) - Integration with BitMind's API for accessing AI services on Bittensor
+- [Devin](https://github.com/elizaos-plugins/plugin-devin) - Integration with Devin API for automated engineering assistance
+- [Isaacx](https://github.com/isaacx0/plugin-isaacx) - Advanced AI reasoning and cognitive modeling plugin
+- [Mind Network](https://github.com/elizaos-plugins/plugin-mind-network) - Integration with Mind Network Hubs for secure, privacy-preserving voting
+- [NVIDIA NIM](https://github.com/elizaos-plugins/plugin-nvidia-nim) - NVIDIA's AI foundation models for content analysis and safety checks
+- [OpenAI](https://github.com/elizaos-plugins/plugin-openai) - Integration with OpenAI's GPT models for automated text generation
+- [Galadriel](https://github.com/elizaos-plugins/plugin-galadriel) - Verified inference API for on-chain agent verification
+- [LLaMA](https://github.com/elizaos-plugins/plugin-llama) - Local LLM capabilities using LLaMA models with CPU and GPU support
+- [D.a.t.a](https://github.com/carv-protocol/plugin-d.a.t.a) - Data processing with authentication and trust scoring
+- [AlphaNeural](https://github.com/alphaneuralai/plugin-alphaneural) - Neural network capabilities for AI agents
 
 ### Media & Content
 
-Media generation and content management:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| 3D Generation | Generates 3D models from text descriptions using FAL.ai | [GitHub](https://github.com/elizaos-plugins/plugin-3d-generation) |
-| Image | Processing and analysis of images with multiple vision model providers | [GitHub](https://github.com/elizaos-plugins/plugin-image) |
-| Image Generation | Generates and manages images with storage and optimization features | [GitHub](https://github.com/elizaos-plugins/plugin-image-generation) |
-| Letzai | Image generation using LetzAI's API and models | [GitHub](https://github.com/elizaos-plugins/plugin-letzai) |
-| NFT Generation | Creates NFT collections with AI-generated artwork on Solana | [GitHub](https://github.com/elizaos-plugins/plugin-nft-generation) |
-| Video | Comprehensive video processing with download and transcription | [GitHub](https://github.com/elizaos-plugins/plugin-video) |
-| Video Generation | Generates videos using Luma AI's API services | [GitHub](https://github.com/elizaos-plugins/plugin-video-generation) |
-| Story | Generates interactive storytelling experiences with branching narratives | [GitHub](https://github.com/elizaos-plugins/plugin-story) |
-| Suno | Integration with Suno AI's music generation from text prompts | [GitHub](https://github.com/elizaos-plugins/plugin-suno) |
-| UDIO | AI-powered music generation and extension from text prompts | [GitHub](https://github.com/elizaos-plugins/plugin-udio) |
-| Giphy | Sending GIFs in response to user messages using the Giphy API | [GitHub](https://github.com/elizaos-plugins/plugin-giphy) |
-| imgflip | Generates memes using the imgflip.com API based on user messages | [GitHub](https://github.com/elizaos-plugins/plugin-imgflip) |
-| TTS | Generates speech from text using FAL.ai's API | [GitHub](https://github.com/elizaos-plugins/plugin-tts) |
-| Speech TTS | Text-to-speech transcription using OpenAI and ElevenLabs | [GitHub](https://github.com/elizaos-plugins/plugin-speech-tts) |
-| Para | NFT and digital collectible management platform integration | [GitHub](https://github.com/aipop-fun/plugin-para) |
-| NFT Collections | NFT data services for market analytics with 420+ verified collections | [GitHub](https://github.com/elizaos-plugins/plugin-nft-collections) |
-| YouTube to Text | Converts YouTube videos to text transcripts | [GitHub](https://github.com/wellaios/plugin-youtube-to-text) |
-| PDF | PDF text extraction and processing capabilities for document analysis | [GitHub](https://github.com/elizaos-plugins/plugin-pdf) |
+- [3D Generation](https://github.com/elizaos-plugins/plugin-3d-generation) - Generates 3D models from text descriptions using FAL.ai
+- [Image](https://github.com/elizaos-plugins/plugin-image) - Processing and analysis of images with multiple vision model providers
+- [Image Generation](https://github.com/elizaos-plugins/plugin-image-generation) - Generates and manages images with storage and optimization features
+- [Letzai](https://github.com/elizaos-plugins/plugin-letzai) - Image generation using LetzAI's API and models
+- [NFT Generation](https://github.com/elizaos-plugins/plugin-nft-generation) - Creates NFT collections with AI-generated artwork on Solana
+- [Video](https://github.com/elizaos-plugins/plugin-video) - Comprehensive video processing with download and transcription
+- [Video Generation](https://github.com/elizaos-plugins/plugin-video-generation) - Generates videos using Luma AI's API services
+- [Story](https://github.com/elizaos-plugins/plugin-story) - Generates interactive storytelling experiences with branching narratives
+- [Suno](https://github.com/elizaos-plugins/plugin-suno) - Integration with Suno AI's music generation from text prompts
+- [UDIO](https://github.com/elizaos-plugins/plugin-udio) - AI-powered music generation and extension from text prompts
+- [Giphy](https://github.com/elizaos-plugins/plugin-giphy) - Sending GIFs in response to user messages using the Giphy API
+- [imgflip](https://github.com/elizaos-plugins/plugin-imgflip) - Generates memes using the imgflip.com API based on user messages
+- [TTS](https://github.com/elizaos-plugins/plugin-tts) - Generates speech from text using FAL.ai's API
+- [Speech TTS](https://github.com/elizaos-plugins/plugin-speech-tts) - Text-to-speech transcription using OpenAI and ElevenLabs
+- [Para](https://github.com/aipop-fun/plugin-para) - NFT and digital collectible management platform integration
+- [NFT Collections](https://github.com/elizaos-plugins/plugin-nft-collections) - NFT data services for market analytics with 420+ verified collections
+- [YouTube to Text](https://github.com/wellaios/plugin-youtube-to-text) - Converts YouTube videos to text transcripts
+- [PDF](https://github.com/elizaos-plugins/plugin-pdf) - PDF text extraction and processing capabilities for document analysis
 
 ### Social & Communication
 
-Social media and communication tools:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| Email | Email client functionality for sending/receiving via SMTP/IMAP | [GitHub](https://github.com/elizaos-plugins/plugin-email) |
-| Email Automation | AI-powered email conversation detection and content formatting | [GitHub](https://github.com/elizaos-plugins/plugin-email-automation) |
-| Echochambers | Chat room interactions with dynamic conversation handling | [GitHub](https://github.com/elizaos-plugins/plugin-echochambers) |
-| Twitter | Automated tweet posting with character-aware content generation | [GitHub](https://github.com/elizaos-plugins/plugin-twitter) |
-| WhatsApp | WhatsApp messaging through the Cloud API with comprehensive features | [GitHub](https://github.com/elizaos-plugins/plugin-whatsapp) |
-| Twilio | SMS, voice, and communication capabilities through Twilio API | [GitHub](https://github.com/boolkeys/plugin-twilio) |
-| Lens Network | Integration with Lens protocol for both native and ERC20 tokens | [GitHub](https://github.com/elizaos-plugins/plugin-lens-network) |
-| NKN | Communication between multiple AI agents using the NKN protocol | [GitHub](https://github.com/nknorg/eliza-plugin-nkn) |
-| Obsidian | Seamless integration with Obsidian vaults for note management | [GitHub](https://github.com/elizaos-plugins/plugin-obsidian) |
-| GitBook | Querying and retrieving information from GitBook documentation | [GitHub](https://github.com/elizaos-plugins/plugin-gitbook) |
-| News | Real-time news data through NewsAPI with search and summary | [GitHub](https://github.com/elizaos-plugins/plugin-news) |
-| Intiface | Controls intimate hardware devices through the Buttplug.io protocol | [GitHub](https://github.com/elizaos-plugins/plugin-intiface) |
-| Open Weather | Weather data using the OpenWeather API | [GitHub](https://github.com/elizaos-plugins/plugin-open-weather) |
-| Football | Live football match data and league standings information | [GitHub](https://github.com/elizaos-plugins/plugin-football) |
+- [Email](https://github.com/elizaos-plugins/plugin-email) - Email client functionality for sending/receiving via SMTP/IMAP
+- [Email Automation](https://github.com/elizaos-plugins/plugin-email-automation) - AI-powered email conversation detection and content formatting
+- [Echochambers](https://github.com/elizaos-plugins/plugin-echochambers) - Chat room interactions with dynamic conversation handling
+- [Twitter](https://github.com/elizaos-plugins/plugin-twitter) - Automated tweet posting with character-aware content generation
+- [WhatsApp](https://github.com/elizaos-plugins/plugin-whatsapp) - WhatsApp messaging through the Cloud API with comprehensive features
+- [Twilio](https://github.com/boolkeys/plugin-twilio) - SMS, voice, and communication capabilities through Twilio API
+- [Lens Network](https://github.com/elizaos-plugins/plugin-lens-network) - Integration with Lens protocol for both native and ERC20 tokens
+- [NKN](https://github.com/nknorg/eliza-plugin-nkn) - Communication between multiple AI agents using the NKN protocol
+- [Obsidian](https://github.com/elizaos-plugins/plugin-obsidian) - Seamless integration with Obsidian vaults for note management
+- [GitBook](https://github.com/elizaos-plugins/plugin-gitbook) - Querying and retrieving information from GitBook documentation
+- [News](https://github.com/elizaos-plugins/plugin-news) - Real-time news data through NewsAPI with search and summary
+- [Intiface](https://github.com/elizaos-plugins/plugin-intiface) - Controls intimate hardware devices through the Buttplug.io protocol
+- [Open Weather](https://github.com/elizaos-plugins/plugin-open-weather) - Weather data using the OpenWeather API
+- [Football](https://github.com/elizaos-plugins/plugin-football) - Live football match data and league standings information
 
 ### Infrastructure & Security
 
-Infrastructure, security, and TEE capabilities:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| 0G | Decentralized file storage using the Zero Gravity protocol | [GitHub](https://github.com/elizaos-plugins/plugin-0g) |
-| Akash | Deployments and cloud compute operations on the Akash Network | [GitHub](https://github.com/elizaos-plugins/plugin-akash) |
-| Anyone | SOCKS proxy configuration for the Anyone protocol proxy services | [GitHub](https://github.com/elizaos-plugins/plugin-anyone) |
-| AWS S3 | AWS S3 integration for cloud-based file storage management | [GitHub](https://github.com/elizaos-plugins/plugin-aws-s3) |
-| DCAP | Intel Data Center Attestation Primitives for secure cloud environments | [GitHub](https://github.com/elizaos-plugins/plugin-dcap) |
-| DePIN | Connection to physical infrastructure through Decentralized Networks | [GitHub](https://github.com/elizaos-plugins/plugin-depin) |
-| ETHStorage | Interaction with EthStorage decentralized storage network | [GitHub](https://github.com/elizaos-plugins/plugin-ethstorage) |
-| Gelato | Smart contract interactions via Gelato Relay on EVM chains | [GitHub](https://github.com/elizaos-plugins/plugin-gelato) |
-| Hyperbolic | GPU instance management on the Hyperbolic platform | [GitHub](https://github.com/elizaos-plugins/plugin-hyperbolic) |
-| IQ6900 | Blockchain inscription functionality through IQ6900's Code-In standard | [GitHub](https://github.com/elizaos-plugins/plugin-iq6900) |
-| Irys | Decentralized data storage and retrieval using Irys datachain | [GitHub](https://github.com/elizaos-plugins/plugin-irys) |
-| Lit | Integration with Lit Protocol for decentralized access control | [GitHub](https://github.com/elizaos-plugins/plugin-lit) |
-| Okto | Self-custody wallet operations and transaction management | [GitHub](https://github.com/okto-hq/eliza-plugin) |
-| SGX | Intel SGX attestation capabilities for secure execution | [GitHub](https://github.com/elizaos-plugins/plugin-sgx) |
-| Spheron | Deployments and operations using the Spheron Protocol | [GitHub](https://github.com/elizaos-plugins/plugin-spheron) |
-| TEE | Trusted Execution Environment operations and key management | [GitHub](https://github.com/elizaos-plugins/plugin-tee) |
-| TEE Log | Secure logging capabilities within Trusted Execution Environments | [GitHub](https://github.com/elizaos-plugins/plugin-tee-log) |
-| TEE Marlin | TEE verification through Marlin Oyster platform | [GitHub](https://github.com/elizaos-plugins/plugin-tee-marlin) |
-| TEE Verifiable Log | Verifiable logging within TEEs for secure, auditable records | [GitHub](https://github.com/elizaos-plugins/plugin-tee-verifiable-log) |
-| Thirdweb | Access to thirdweb's Nebula AI interface | [GitHub](https://github.com/elizaos-plugins/plugin-thirdweb) |
-| TrustDB | Trust scores and performance metrics in a secure database | [GitHub](https://github.com/elizaos-plugins/plugin-trustdb) |
-| TrustGo | EVM account information and MEDIA score attestations from TrustGo | [GitHub](https://github.com/TrustaLabs/plugin-trustgo) |
-| Gitcoin Passport | Gitcoin Passport API for verifying and managing digital identity | [GitHub](https://github.com/elizaos-plugins/plugin-gitcoin-passport) |
+- [0G](https://github.com/elizaos-plugins/plugin-0g) - Decentralized file storage using the Zero Gravity protocol
+- [Akash](https://github.com/elizaos-plugins/plugin-akash) - Deployments and cloud compute operations on the Akash Network
+- [Anyone](https://github.com/elizaos-plugins/plugin-anyone) - SOCKS proxy configuration for the Anyone protocol proxy services
+- [AWS S3](https://github.com/elizaos-plugins/plugin-aws-s3) - AWS S3 integration for cloud-based file storage management
+- [DCAP](https://github.com/elizaos-plugins/plugin-dcap) - Intel Data Center Attestation Primitives for secure cloud environments
+- [DePIN](https://github.com/elizaos-plugins/plugin-depin) - Connection to physical infrastructure through Decentralized Networks
+- [ETHStorage](https://github.com/elizaos-plugins/plugin-ethstorage) - Interaction with EthStorage decentralized storage network
+- [Gelato](https://github.com/elizaos-plugins/plugin-gelato) - Smart contract interactions via Gelato Relay on EVM chains
+- [Hyperbolic](https://github.com/elizaos-plugins/plugin-hyperbolic) - GPU instance management on the Hyperbolic platform
+- [IQ6900](https://github.com/elizaos-plugins/plugin-iq6900) - Blockchain inscription functionality through IQ6900's Code-In standard
+- [Irys](https://github.com/elizaos-plugins/plugin-irys) - Decentralized data storage and retrieval using Irys datachain
+- [Lit](https://github.com/elizaos-plugins/plugin-lit) - Integration with Lit Protocol for decentralized access control
+- [Okto](https://github.com/okto-hq/eliza-plugin) - Self-custody wallet operations and transaction management
+- [SGX](https://github.com/elizaos-plugins/plugin-sgx) - Intel SGX attestation capabilities for secure execution
+- [Spheron](https://github.com/elizaos-plugins/plugin-spheron) - Deployments and operations using the Spheron Protocol
+- [TEE](https://github.com/elizaos-plugins/plugin-tee) - Trusted Execution Environment operations and key management
+- [TEE Log](https://github.com/elizaos-plugins/plugin-tee-log) - Secure logging capabilities within Trusted Execution Environments
+- [TEE Marlin](https://github.com/elizaos-plugins/plugin-tee-marlin) - TEE verification through Marlin Oyster platform
+- [TEE Verifiable Log](https://github.com/elizaos-plugins/plugin-tee-verifiable-log) - Verifiable logging within TEEs for secure, auditable records
+- [Thirdweb](https://github.com/elizaos-plugins/plugin-thirdweb) - Access to thirdweb's Nebula AI interface
+- [TrustDB](https://github.com/elizaos-plugins/plugin-trustdb) - Trust scores and performance metrics in a secure database
+- [TrustGo](https://github.com/TrustaLabs/plugin-trustgo) - EVM account information and MEDIA score attestations from TrustGo
+- [Gitcoin Passport](https://github.com/elizaos-plugins/plugin-gitcoin-passport) - Gitcoin Passport API for verifying and managing digital identity
 
 ### Tools & Utilities
 
-Miscellaneous tools and utilities:
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| Browser | Web scraping and browser automation using Playwright | [GitHub](https://github.com/elizaos-plugins/plugin-browser) |
-| DKG | Integration with OriginTrail Decentralized Knowledge Graph | [GitHub](https://github.com/elizaos-plugins/plugin-dkg) |
-| Firecrawl | Web scraping and crawling capabilities through the Firecrawl API | [GitHub](https://github.com/tobySolutions/plugin-firecrawl) |
-| Gigbot | AI-powered freelance work management and automation toolkit | [GitHub](https://github.com/PaymagicXYZ/plugin-gigbot) |
-| Lightning | Lightning Network integration for off-chain Bitcoin payments | [GitHub](https://github.com/elizaos-plugins/plugin-lightning) |
-| Stargaze | Fetches NFT data from Stargaze collections | [GitHub](https://github.com/elizaos-plugins/plugin-stargaze) |
-| Web Search | Powerful web search capabilities with customizable API interface | [GitHub](https://github.com/elizaos-plugins/plugin-web-search) |
+- [Browser](https://github.com/elizaos-plugins/plugin-browser) - Web scraping and browser automation using Playwright
+- [DKG](https://github.com/elizaos-plugins/plugin-dkg) - Integration with OriginTrail Decentralized Knowledge Graph
+- [Firecrawl](https://github.com/tobySolutions/plugin-firecrawl) - Web scraping and crawling capabilities through the Firecrawl API
+- [Gigbot](https://github.com/PaymagicXYZ/plugin-gigbot) - AI-powered freelance work management and automation toolkit
+- [Lightning](https://github.com/elizaos-plugins/plugin-lightning) - Lightning Network integration for off-chain Bitcoin payments
+- [Stargaze](https://github.com/elizaos-plugins/plugin-stargaze) - Fetches NFT data from Stargaze collections
+- [Web Search](https://github.com/elizaos-plugins/plugin-web-search) - Powerful web search capabilities with customizable API interface
 
 ---
 
 ## Community
 
 - [elizaOS](https://elizaos.ai) - Official homepage for elizaOS
-- [elizaOS-image-lab](https://rubyfields.github.io/ai16z-image-lab/) - Create a random Eliza to be posted on X
-- [Put on a hat](https://elizaos.github.io/hat/) - Add a hat to any image
-- [awesome-eliza](https://awesome.eliza.fyi) - A curated list of awesome things related to elizaOS/eliza framework
+- [x.com/elizaos](https://x.com/elizaos) - Official X account for elizaOS
+- [elizaOS-image-lab](https://rubyfields.github.io/ai16z-image-lab/) - Create an Eliza picture with AI image gen
+- [Put on a hat](https://elizaos.github.io/hat/) - Add a hat to any image!
+- [awesome-eliza](https://awesome.eliza.fyi) - HTML version of awesome things related to elizaOS/eliza framework
 - [elizas world](https://elizas.world/) - List of all agent tokens with contributions
 
 ## Videos and Spaces
-- [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
-- [elizaOS DAO v2](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Managing Information Overload, AI Summarization, elizaOS DAO v2
 
-## What Did You Get Done This Week
-Developers update on what they're working on this week
-- [WDYGDTW #1](https://x.com/elizaOSdao/status/1857495347179688235) - 2024-11-16
-- [WDYGDTW #2](https://www.youtube.com/watch?v=Lbvv0Dr91Bc) - 2024-11-23
-- [WDYGDTW #3](https://www.youtube.com/watch?v=X1aFEOaGcYE) - 2024-11-30
-- [WDYGDTW #4](https://www.youtube.com/watch?v=r3Z4lvu_ic4) - 2024-12-07
-- [WDYGDTW #5](https://www.youtube.com/watch?v=4u8rbjmvWC0) - 2024-12-14
-- [WDYGDTW #6](https://www.youtube.com/watch?v=R3auUQj9oEg) - 2024-12-21
-- [WDYGDTW #7](https://www.youtube.com/watch?v=jcSF7dSicTI) - 2024-12-28
+- [The Delphi Podcast: Crypto x AI Agents](https://www.youtube.com/watch?v=HVXxprDVMUM) - Panel with ai16z, Virtuals, MyShell, NOUS, and CENTS
+- [What Do Machines Dream Of? Episode 1: World Builders](https://x.com/i/broadcasts/1vOxwrZYbygJB)
+- [Threadguy x Shaw Interview](https://www.twitch.tv/videos/2298718699) - Shaw and Threadguy talking about AI agents during a livestream
+- [Hats Protocol - DAO Organization](https://www.youtube.com/watch?v=B5zJxUez2AM) - Overview of Hats protocol and how it applies to elizaOS
+- [Bankless + Shaw Interview](https://www.youtube.com/watch?v=5GBXS5myXz0) - What is the role of AI in crypto, and how will it shape the future?
+- [Green Pill: Owocki, Shaw, Jin](https://www.youtube.com/watch?v=bnkhu4Bx9C4) - S7 Ep2 talking about Ai Agents, DAOs, and funding public goods
+- [jin: Managing Information + Rewarding Contributors](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Early presentation about information management
+- [Shaw + Polygon Labs Interview](https://www.youtube.com/embed/hf7V-IHo5xk) - Discussing the future of decentralized AI, autonomous agents, AGI and more
+- [The Future of AI Agents/w Shaw](https://x.com/thejoven_com/status/1894981534815527187) - Shaw chatting with MotherDAO about AI agents, 2025-02-27
+- [DCo - AI Traders, Swarms, and Surviving the Bear](https://www.decentralised.co/p/ep-35-ai-traders-swarms-and-surviving) - Ep35 of The DCo Podcast with Shaw
+
+### What Did You Get Done This Week?
+
+- [WDYGDTW #1](https://www.youtube.com/watch?v=9EmvhlBPB8Q) - 2024-11-15
+- [WDYGDTW #2](https://www.youtube.com/watch?v=Lbvv0Dr91Bc) - 2024-11-22
+- [WDYGDTW #3](https://www.youtube.com/watch?v=nUAEQ7uKi04) - 2024-11-29
+- [WDYGDTW #4](https://www.youtube.com/watch?v=r3Z4lvu_ic4) - 2024-12-06
+- [WDYGDTW #5](https://www.youtube.com/watch?v=4u8rbjmvWC0) - 2024-12-13
+- [WDYGDTW #6](https://www.youtube.com/watch?v=R3auUQj9oEg) - 2024-12-20
+- [WDYGDTW #7](https://www.youtube.com/watch?v=jcSF7dSicTI) - 2024-12-27
 - [WDYGDTW #8](https://www.youtube.com/watch?v=Vs7D5DN_trk) - 2025-01-03
 - [WDYGDTW #9](https://www.youtube.com/watch?v=fqM_vYK2bmc) - 2025-01-10
+- [WDYGDTW #10](https://www.youtube.com/watch?v=1voboZEQTAw) - 2025-01-17
+- [WDYGDTW #11](https://www.youtube.com/watch?v=mxdWvBnxN8M) - 2025-01-24
+- [WDYGDTW #12](https://www.youtube.com/watch?v=SZNuoXJ1Mvs) - 2025-01-31
 
-## AI Agent Dev School Series
-AI Agent Dev School with Shaw, using ElizaOS
-- [AI Agent Dev School 01](https://www.youtube.com/watch?v=ArptLpQiKfI) - part 1
-- [AI Agent Dev School 02](https://www.youtube.com/watch?v=AC3h_KzLARo) - part 2
-- [AI Agent Dev School 03](https://www.youtube.com/watch?v=X1aFEOaGcYE) - 2024-11-26
-- [AI Agent Dev School 04](https://www.youtube.com/watch?v=Y1DiqSVy4aU) - 2024-12-06
-- [AI Agent Dev School 05](https://www.youtube.com/watch?v=6I9e9pJprDI) - 2024-12-10
-- [AI Agent Dev School 01 cn](https://www.youtube.com/watch?v=0CB_u6J9_Bo) - 01 (CN)
+## Research and News
 
-## Research
-- [The Future of AI Agents/w Shaw](https://x.com/thejoven_com/status/1894981534815527187) - The Future of AI Agents/w Shaw
+- [Eliza Technical Report/Whitepaper](https://arxiv.org/pdf/2501.06781) - Academic paper on ElizaOS architecture and capabilities
 - [Exploring the Future of AI Agents in Crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance 
 - [Almost all AI agents are just ‘memecoins that talk’](https://www.binance.com/en/square/post/18443194059729) - Binance
+- [AI16z rebrands into ElizaOS ](https://cryptoslate.com/ai16z-rebrands-into-elizaos-as-adoption-grows/) - CryptoSlate
+- [Eliza Labs and Stanford University’s FDCI Partnership](https://decrypt.co/296770/eliza-labs-and-stanford-universitys-fdci-to-explore-ai-agents-impact-on-digital-currency-systems)
+- [The Bazaar of Agents](https://x.com/0xPrismatic/status/1872624976882512171?lang=en) - Analyzing elizaOS through lens of 'The Cathedral and the Bazaar'
+- [The Battle of the AI Agent Frameworks](https://members.delphidigital.io/reports/the-battle-of-the-ai-agent-frameworks#the-frameworks-are-dead-long-live-the-frameworks-75f9) - Delphi research report
 
-# Contributors
+---
+
+## Contributors
 
 Thanks goes to all these wonderful people:
 
@@ -307,21 +321,29 @@ Thanks goes to all these wonderful people:
   <img src="https://contrib.rocks/image?repo=elizaos/awesome-eliza" />
 </a>
 
-## Need maintainer / Deprecated
 
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-| Primus | Verification of agent activities using Primus' zkTLS protocol | [GitHub](https://github.com/elizaos-plugins/plugin-primus) |
-| DI | Dependency injection system for Eliza plugins | [GitHub](https://github.com/fixes-world/plugin-di) |
-| SQLjs | In-memory SQL database adapter for browser-based applications | [GitHub](https://github.com/elizaos-plugins/adapter-sqljs) |
-| Redis Cache | Redis cache plugin for ElizaOS (needs maintainer) | [GitHub](https://github.com/elizaos-plugins/cache-redis) |
-| Auto | Auto-detection client for determining optimal communication channels | [GitHub](https://github.com/elizaos-plugins/client-auto) |
-| Bootstrap | Core functionality for ElizaOS agents including conversation management | [GitHub](https://github.com/elizaos-plugins/plugin-bootstrap) |
-| Opacity | Verifiable inference results from various AI model providers | [GitHub](https://github.com/elizaos-plugins/plugin-opacity) |
-| Node | Core Node.js services for file operations and media processing | [GitHub](https://github.com/elizaos-plugins/plugin-node) |
+---
 
+
+#### Need maintainer / Deprecated
+
+- [Primus](https://github.com/elizaos-plugins/plugin-primus) - Verification of agent activities using Primus' zkTLS protocol
+- [DI](https://github.com/fixes-world/plugin-di) - Dependency injection system for Eliza plugins
+- [SQLjs](https://github.com/elizaos-plugins/adapter-sqljs) - In-memory SQL database adapter for browser-based applications
+- [Redis Cache](https://github.com/elizaos-plugins/cache-redis) - Redis cache plugin for ElizaOS (needs maintainer)
+- [Auto](https://github.com/elizaos-plugins/client-auto) - Auto-detection client for determining optimal communication channels
+- [Bootstrap](https://github.com/elizaos-plugins/plugin-bootstrap) - Core functionality for ElizaOS agents including conversation management
+- [Opacity](https://github.com/elizaos-plugins/plugin-opacity) - Verifiable inference results from various AI model providers
+- [Node](https://github.com/elizaos-plugins/plugin-node) - Core Node.js services for file operations and media processing
 - [ElizaOS-starter](https://github.com/elizaOS/eliza-starter) - elizaOS starter template
-- [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
-- [elizaOS-Installer](https://github.com/HowieDuhzit/Eliza-Installer) - Automated ElizaOS Install Script
+- [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot (??)
+- [elizaOS-Installer](https://github.com/HowieDuhzit/Eliza-Installer) - Automated ElizaOS Install Script (Merged)
 - [active Bounties](https://elizaOS.github.io/website) - Bounties list
-- [elizas-list](https://github.com/elizaOS/elizas-list) - add your ElizaOS project into eliza's list
+- [elizas-list](https://github.com/elizaOS/elizas-list) - add your ElizaOS project into eliza's list (404)
+
+#### Older Content
+- [X Space 10-29-24](https://x.com/weremeow/status/1851365658916708616) - Space hosted by weremeow about AI/Crypto Tipping Points (OLD)
+- [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24 (OLD)
+- [X Space 10-27-24](https://x.com/shawmakesmagic/status/1850609680558805422) - AI16Z and DegenAI Relationship (OLD)
+- [X Space 10-25-24](https://www.youtube.com/live/F3IZ3ikacWM) - Eliza Framework Overview (OLD)
+
