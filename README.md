@@ -1,22 +1,9 @@
-<h2 align='center'>awesome-eliza</h2>
+# Awesome elizaOS
 
-<p align='center'>
-A curated list of awesome things related to <a href='https://github.com/elizaOS/eliza' target="_blank">elizaOS/eliza</a> framework
-<br>
+A curated list of awesome things related to the [elizaOS/eliza](https://github.com/elizaOS/eliza) framework.           
 
-<p align='center'>
-<i>Created by: <a href='https://x.com/thejoven_com' target="_blank">thejoven_com</a></i>
-<br><br>
-
-<a href='https://github.com/thejoven/awesome-eliza/' target="_blank">
-<img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
-</a>
-</p>
-<p align="center">
-  <br>
-  <img width="400" src="https://raw.githubusercontent.com/thejoven/awesome-eliza/refs/heads/main/assets/eliza-logo.jpg" alt="logo of thejoven/awesome-eliza repository">
-  <br>
-  <br>
+<p align="center">                                                                                                     
+  <img src="https://raw.githubusercontent.com/elizaos/awesome-eliza/refs/heads/main/assets/banner.png"</img>
 </p>
 
 ## Framework
