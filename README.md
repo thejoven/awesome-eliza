@@ -8,32 +8,31 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
-- [Official Developer Resources](#official-developer-resources)
-- [Tutorials and Learning Resources](#tutorials-and-learning-resources)
-- [Tools](#tools)
-- [Integrations](#integrations)
-- [Adapters](#adapters)
-- [Clients](#clients)
-- [Plugins](#plugins)
-  - [Blockchain & DeFi](#blockchain--defi)
-  - [Crypto Trading & Exchanges](#crypto-trading--exchanges)
-  - [AI & Data](#ai--data)
-  - [Media & Content](#media--content)
-  - [Social & Communication](#social--communication)
-  - [Infrastructure & Security](#infrastructure--security)
-  - [Tools & Utilities](#tools--utilities)
-- [Community](#community)
-- [Videos and Spaces](#videos-and-spaces)
-  - [What Did You Get Done This Week?](#what-did-you-get-done-this-week)
-- [Research](#research)
-- [Contributors](#contributors)
-- [Need maintainer / Deprecated](#need-maintainer--deprecated)
+- [🏢 Official Developer Resources](#official-developer-resources)
+- [📚 Tutorials and Learning Resources](#tutorials-and-learning-resources)
+- [🛠️ Tools](#tools)
+- [🔌 Integrations](#integrations)
+- [🔄 Clients](#clients)
+- [💾 Adapters](#adapters)
+- [🧩 Plugins](#plugins)
+  - [⛓️ Blockchain & DeFi](#blockchain--defi)
+  - [📈 Crypto Trading & Exchanges](#crypto-trading--exchanges)
+  - [🧠 AI & Data](#ai--data)
+  - [🎨 Media & Content](#media--content)
+  - [💬 Social & Communication](#social--communication)
+  - [🔒 Infrastructure & Security](#infrastructure--security)
+  - [🔧 Tools & Utilities](#tools--utilities)
+- [👥 Community](#community)
+- [🎬 Videos and Spaces](#videos-and-spaces)
+  - [📅 What Did You Get Done This Week?](#what-did-you-get-done-this-week)
+- [📊 Research and News](#research-and-news)
+- [👏 Contributors](#contributors)
 
 ---
 
-## Official Developer Resources
+## 🏢 Official Developer Resources
 
 - [elizaOS GitHub Repository](https://github.com/elizaos/eliza) - The main repository for elizaOS, an open-source AI agent framework.
 - [elizaOS Documentation](https://elizaos.github.io/eliza/) - Official documentation and guides
@@ -41,7 +40,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [elizaOS Plugin Registry](https://github.com/elizaos-plugins/registry) - JSON Registry for all the plugins in the elizaOS ecosystem
 - [Contributor Leaderboard](https://elizaos.github.io) - See all the contributors for elizaos/eliza, view daily GitHub summaries
 
-## Tutorials and Learning Resources
+## 📚 Tutorials and Learning Resources
 
 - [Quickstart Guide](https://elizaos.github.io/eliza/quickstart) - Get up and running quickly with elizaOS
 - [Building a Social AI Agent in 15 Minutes](https://www.youtube.com/embed/6PZVwNTl5hI?si=0zB3OvYU4KiRQTxI) - Nader's Tutorial
@@ -53,27 +52,19 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [AI Agent Dev School 03](https://www.youtube.com/watch?v=Y1DiqSVy4aU) - Building a User Data Extraction Agent
 - [AI Agent Dev School 04](https://www.youtube.com/watch?v=6I9e9pJprDI) - AI Pizza: Hacking Eliza for Domino's Delivery (plus TEE Deep Dive)
 
-## Tools
+## 🛠️ Tools
 - [twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza characterfile generator, add your own API keys
 - [Fleek.xyz](https://fleek.xyz/eliza/) - Deploy Eliza agents in one click on a hosted platform
 
-## Integrations
+## 🔌 Integrations
+
 - [Hyperfy](https://hyperfy.how/guides/ai/agents/) - agent creation, autonomous behavior, NPC development in open source 3d web
-- [Nifty Island]()
+- [Nifty Island](https://docs.niftyisland.com/creator/agents/tutorials/eliza/) - Deploy elizas into Nifty Island and beyond
 
 ---
 
-## Adapters
-
-- [MongoDB](https://github.com/elizaos-plugins/adapter-mongodb) - Database adapter for MongoDB enabling document storage with query capabilities
-- [Postgres](https://github.com/elizaos-plugins/adapter-postgres) - Database adapter for PostgreSQL with full relational database capabilities
-- [Pglite](https://github.com/elizaos-plugins/adapter-pglite) - Lightweight PostgreSQL adapter for embedded database applications
-- [Qdrant](https://github.com/elizaos-plugins/adapter-qdrant) - Vector database adapter for Qdrant with similarity search capabilities
-- [SQLite](https://github.com/elizaos-plugins/adapter-sqlite) - File-based SQL database adapter for lightweight local storage
-- [Supabase](https://github.com/elizaos-plugins/adapter-supabase) - Database adapter for Supabase with PostgreSQL and realtime capabilities
-
-## Clients
+## 🔄 Clients
 
 - [Discord](https://github.com/elizaos-plugins/client-discord) - Discord integration with messaging and community interaction capabilities
 - [Farcaster](https://github.com/elizaos-plugins/client-farcaster) - Client for Farcaster decentralized social media protocol
@@ -89,10 +80,21 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Instagram](https://github.com/elizaos-plugins/client-instagram) - Instagram integration with support for media posting and interactions
 - [Telegram Account](https://github.com/elizaos-plugins/client-telegram-account) - Advanced Telegram account management beyond basic bot functionality
 - [XMTP](https://github.com/elizaos-plugins/client-xmtp) - Secure, decentralized, and end-to-end encrypted messaging through XMTP protocol
-	
-## Plugins
 
-### Blockchain & DeFi
+
+## 💾 Adapters
+
+- [MongoDB](https://github.com/elizaos-plugins/adapter-mongodb) - Database adapter for MongoDB enabling document storage with query capabilities
+- [Postgres](https://github.com/elizaos-plugins/adapter-postgres) - Database adapter for PostgreSQL with full relational database capabilities
+- [Pglite](https://github.com/elizaos-plugins/adapter-pglite) - Lightweight PostgreSQL adapter for embedded database applications
+- [Qdrant](https://github.com/elizaos-plugins/adapter-qdrant) - Vector database adapter for Qdrant with similarity search capabilities
+- [SQLite](https://github.com/elizaos-plugins/adapter-sqlite) - File-based SQL database adapter for lightweight local storage
+- [Supabase](https://github.com/elizaos-plugins/adapter-supabase) - Database adapter for Supabase with PostgreSQL and realtime capabilities
+
+
+## 🧩 Plugins
+
+### ⛓️ Blockchain & DeFi
 
 - [0x](https://github.com/elizaos-plugins/plugin-0x) - Token swaps through 0x Protocol across multiple EVM blockchains
 - [Aptos](https://github.com/elizaos-plugins/plugin-aptos) - Token transfers and wallet management on the Aptos blockchain
@@ -143,7 +145,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Trikon](https://github.com/elizaos-plugins/plugin-trikon) - Token transfers for Trikon with wallet management on ZKsync Era
 - [AgentKit](https://github.com/elizaos-plugins/plugin-agentkit) - CDP AgentKit tools for NFT and token management on blockchains
 
-### Crypto Trading & Exchanges
+### 📈 Crypto Trading & Exchanges
 
 - [Binance](https://github.com/elizaos-plugins/plugin-binance) - Cryptocurrency trading and price checking via Binance API
 - [CCXT](https://github.com/pranavjadhav1363/plugin-ccxt) - Cryptocurrency trading and arbitrage across multiple exchanges
@@ -171,7 +173,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Chainbase](https://github.com/elizaos-plugins/plugin-chainbase) - Natural language interactions with blockchain data across networks
 - [Edwin](https://github.com/elizaos-plugins/plugin-edwin) - Interaction with Edwin tools for DeFi operations
 
-### AI & Data
+### 🧠 AI & Data
 
 - [Allora](https://github.com/elizaos-plugins/plugin-allora) - Real-time AI inferences from Allora Network for market predictions
 - [Asterai](https://github.com/elizaos-plugins/plugin-asterai) - Integration with asterai.io plugins and agents for enhanced AI capabilities
@@ -188,7 +190,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [D.a.t.a](https://github.com/carv-protocol/plugin-d.a.t.a) - Data processing with authentication and trust scoring
 - [AlphaNeural](https://github.com/alphaneuralai/plugin-alphaneural) - Neural network capabilities for AI agents
 
-### Media & Content
+### 🎨 Media & Content
 
 - [3D Generation](https://github.com/elizaos-plugins/plugin-3d-generation) - Generates 3D models from text descriptions using FAL.ai
 - [Image](https://github.com/elizaos-plugins/plugin-image) - Processing and analysis of images with multiple vision model providers
@@ -209,7 +211,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [YouTube to Text](https://github.com/wellaios/plugin-youtube-to-text) - Converts YouTube videos to text transcripts
 - [PDF](https://github.com/elizaos-plugins/plugin-pdf) - PDF text extraction and processing capabilities for document analysis
 
-### Social & Communication
+### 💬 Social & Communication
 
 - [Email](https://github.com/elizaos-plugins/plugin-email) - Email client functionality for sending/receiving via SMTP/IMAP
 - [Email Automation](https://github.com/elizaos-plugins/plugin-email-automation) - AI-powered email conversation detection and content formatting
@@ -226,7 +228,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Open Weather](https://github.com/elizaos-plugins/plugin-open-weather) - Weather data using the OpenWeather API
 - [Football](https://github.com/elizaos-plugins/plugin-football) - Live football match data and league standings information
 
-### Infrastructure & Security
+### 🔒 Infrastructure & Security
 
 - [0G](https://github.com/elizaos-plugins/plugin-0g) - Decentralized file storage using the Zero Gravity protocol
 - [Akash](https://github.com/elizaos-plugins/plugin-akash) - Deployments and cloud compute operations on the Akash Network
@@ -252,7 +254,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [TrustGo](https://github.com/TrustaLabs/plugin-trustgo) - EVM account information and MEDIA score attestations from TrustGo
 - [Gitcoin Passport](https://github.com/elizaos-plugins/plugin-gitcoin-passport) - Gitcoin Passport API for verifying and managing digital identity
 
-### Tools & Utilities
+### 🔧 Tools & Utilities
 
 - [Browser](https://github.com/elizaos-plugins/plugin-browser) - Web scraping and browser automation using Playwright
 - [DKG](https://github.com/elizaos-plugins/plugin-dkg) - Integration with OriginTrail Decentralized Knowledge Graph
@@ -264,7 +266,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ---
 
-## Community
+## 👥 Community
 
 - [elizaOS](https://elizaos.ai) - Official homepage for elizaOS
 - [x.com/elizaos](https://x.com/elizaos) - Official X account for elizaOS
@@ -273,7 +275,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [awesome-eliza](https://awesome.eliza.fyi) - HTML version of awesome things related to elizaOS/eliza framework
 - [elizas world](https://elizas.world/) - List of all agent tokens with contributions
 
-## Videos and Spaces
+## 🎬 Videos and Spaces
 
 - [The Delphi Podcast: Crypto x AI Agents](https://www.youtube.com/watch?v=HVXxprDVMUM) - Panel with ai16z, Virtuals, MyShell, NOUS, and CENTS
 - [What Do Machines Dream Of? Episode 1: World Builders](https://x.com/i/broadcasts/1vOxwrZYbygJB)
@@ -282,11 +284,11 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Bankless + Shaw Interview](https://www.youtube.com/watch?v=5GBXS5myXz0) - What is the role of AI in crypto, and how will it shape the future?
 - [Green Pill: Owocki, Shaw, Jin](https://www.youtube.com/watch?v=bnkhu4Bx9C4) - S7 Ep2 talking about Ai Agents, DAOs, and funding public goods
 - [jin: Managing Information + Rewarding Contributors](https://www.youtube.com/watch?v=-2PD3uk0Hz4) - Early presentation about information management
-- [Shaw + Polygon Labs Interview](https://www.youtube.com/embed/hf7V-IHo5xk) - Discussing the future of decentralized AI, autonomous agents, AGI and more
+- [Shaw + Polygon Labs Interview](https://www.youtube.com/embed/hf7V-IHo5xk) - Discussing decentralized AI, autonomous agents, AGI, and more
 - [The Future of AI Agents/w Shaw](https://x.com/thejoven_com/status/1894981534815527187) - Shaw chatting with MotherDAO about AI agents, 2025-02-27
 - [DCo - AI Traders, Swarms, and Surviving the Bear](https://www.decentralised.co/p/ep-35-ai-traders-swarms-and-surviving) - Ep35 of The DCo Podcast with Shaw
 
-### What Did You Get Done This Week?
+### 📅 What Did You Get Done This Week?
 
 - [WDYGDTW #1](https://www.youtube.com/watch?v=9EmvhlBPB8Q) - 2024-11-15
 - [WDYGDTW #2](https://www.youtube.com/watch?v=Lbvv0Dr91Bc) - 2024-11-22
@@ -301,7 +303,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [WDYGDTW #11](https://www.youtube.com/watch?v=mxdWvBnxN8M) - 2025-01-24
 - [WDYGDTW #12](https://www.youtube.com/watch?v=SZNuoXJ1Mvs) - 2025-01-31
 
-## Research and News
+## 📊 Research and News
 
 - [Eliza Technical Report/Whitepaper](https://arxiv.org/pdf/2501.06781) - Academic paper on ElizaOS architecture and capabilities
 - [Exploring the Future of AI Agents in Crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance 
@@ -313,37 +315,10 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ---
 
-## Contributors
+## 👏 Contributors
 
 Thanks goes to all these wonderful people:
 
 <a href="https://github.com/elizaos/awesome-eliza/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elizaos/awesome-eliza" />
 </a>
-
-
----
-
-
-#### Need maintainer / Deprecated
-
-- [Primus](https://github.com/elizaos-plugins/plugin-primus) - Verification of agent activities using Primus' zkTLS protocol
-- [DI](https://github.com/fixes-world/plugin-di) - Dependency injection system for Eliza plugins
-- [SQLjs](https://github.com/elizaos-plugins/adapter-sqljs) - In-memory SQL database adapter for browser-based applications
-- [Redis Cache](https://github.com/elizaos-plugins/cache-redis) - Redis cache plugin for ElizaOS (needs maintainer)
-- [Auto](https://github.com/elizaos-plugins/client-auto) - Auto-detection client for determining optimal communication channels
-- [Bootstrap](https://github.com/elizaos-plugins/plugin-bootstrap) - Core functionality for ElizaOS agents including conversation management
-- [Opacity](https://github.com/elizaos-plugins/plugin-opacity) - Verifiable inference results from various AI model providers
-- [Node](https://github.com/elizaos-plugins/plugin-node) - Core Node.js services for file operations and media processing
-- [ElizaOS-starter](https://github.com/elizaOS/eliza-starter) - elizaOS starter template
-- [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot (??)
-- [elizaOS-Installer](https://github.com/HowieDuhzit/Eliza-Installer) - Automated ElizaOS Install Script (Merged)
-- [active Bounties](https://elizaOS.github.io/website) - Bounties list
-- [elizas-list](https://github.com/elizaOS/elizas-list) - add your ElizaOS project into eliza's list (404)
-
-#### Older Content
-- [X Space 10-29-24](https://x.com/weremeow/status/1851365658916708616) - Space hosted by weremeow about AI/Crypto Tipping Points (OLD)
-- [eliza AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24 (OLD)
-- [X Space 10-27-24](https://x.com/shawmakesmagic/status/1850609680558805422) - AI16Z and DegenAI Relationship (OLD)
-- [X Space 10-25-24](https://www.youtube.com/live/F3IZ3ikacWM) - Eliza Framework Overview (OLD)
-
