@@ -144,7 +144,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Rabbi Trader](https://github.com/elizaos-plugins/plugin-rabbi-trader) - Automated cryptocurrency trading on Solana with trust scoring
 - [Trikon](https://github.com/elizaos-plugins/plugin-trikon) - Token transfers for Trikon with wallet management on ZKsync Era
 - [AgentKit](https://github.com/elizaos-plugins/plugin-agentkit) - CDP AgentKit tools for NFT and token management on blockchains
-
+- [Kaia](https://github.com/kaiachain/kaia-eliza-plugin) - Plugin for interacting with Kaia Blockchain network, enabling token transfers, faucets, DeFi and blockchain information retrieval.
 ### 📈 Crypto Trading & Exchanges
 
 - [Binance](https://github.com/elizaos-plugins/plugin-binance) - Cryptocurrency trading and price checking via Binance API
