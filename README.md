@@ -1,6 +1,6 @@
 # Awesome elizaOS
 
-A curated list of awesome things related to the [eliza framework](https://github.com/elizaOS/eliza). 
+A curated list of awesome things related to the [eliza framework](https://github.com/elizaOS/eliza).
 
 <p align="center">                                                                                                     
   <img src="https://raw.githubusercontent.com/elizaos/awesome-eliza/refs/heads/main/assets/banner.png"</img>
@@ -52,8 +52,10 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [AI Agent Dev School 02](https://www.youtube.com/watch?v=X1aFEOaGcYE) - Deep Dive into Actions, Providers, and Evaluators (Standard Definition)
 - [AI Agent Dev School 03](https://www.youtube.com/watch?v=Y1DiqSVy4aU) - Building a User Data Extraction Agent
 - [AI Agent Dev School 04](https://www.youtube.com/watch?v=6I9e9pJprDI) - AI Pizza: Hacking Eliza for Domino's Delivery (plus TEE Deep Dive)
+- [Getting started with elizaOS](https://www.youtube.com/watch?v=tSO4wpQs2OA&list=PLrjBjP4nU8ehOgKAa0-XddHzE0KK0nNvS) - Eliza OS Video Tutorials
 
 ## 🛠️ Tools
+
 - [twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza characterfile generator, add your own API keys
 - [Fleek.xyz](https://fleek.xyz/eliza/) - Deploy Eliza agents in one click on a hosted platform
@@ -82,7 +84,6 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Telegram Account](https://github.com/elizaos-plugins/client-telegram-account) - Advanced Telegram account management beyond basic bot functionality
 - [XMTP](https://github.com/elizaos-plugins/client-xmtp) - Secure, decentralized, and end-to-end encrypted messaging through XMTP protocol
 
-
 ## 💾 Adapters
 
 - [MongoDB](https://github.com/elizaos-plugins/adapter-mongodb) - Database adapter for MongoDB enabling document storage with query capabilities
@@ -91,7 +92,6 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Qdrant](https://github.com/elizaos-plugins/adapter-qdrant) - Vector database adapter for Qdrant with similarity search capabilities
 - [SQLite](https://github.com/elizaos-plugins/adapter-sqlite) - File-based SQL database adapter for lightweight local storage
 - [Supabase](https://github.com/elizaos-plugins/adapter-supabase) - Database adapter for Supabase with PostgreSQL and realtime capabilities
-
 
 ## 🧩 Plugins
 
@@ -307,7 +307,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 ## 📊 Research and News
 
 - [Eliza Technical Report/Whitepaper](https://arxiv.org/pdf/2501.06781) - Academic paper on ElizaOS architecture and capabilities
-- [Exploring the Future of AI Agents in Crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance 
+- [Exploring the Future of AI Agents in Crypto](https://www.binance.com/en/research/analysis/exploring-the-future-of-ai-agents-in-crypto) - Binance
 - [Almost all AI agents are just ‘memecoins that talk’](https://www.binance.com/en/square/post/18443194059729) - Binance
 - [AI16z rebrands into ElizaOS ](https://cryptoslate.com/ai16z-rebrands-into-elizaos-as-adoption-grows/) - CryptoSlate
 - [Eliza Labs and Stanford University’s FDCI Partnership](https://decrypt.co/296770/eliza-labs-and-stanford-universitys-fdci-to-explore-ai-agents-impact-on-digital-currency-systems)
