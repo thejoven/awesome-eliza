@@ -183,6 +183,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Bittensor](https://github.com/elizaos-plugins/plugin-bittensor) - Integration with BitMind's API for accessing AI services on Bittensor
 - [Devin](https://github.com/elizaos-plugins/plugin-devin) - Integration with Devin API for automated engineering assistance
 - [Isaacx](https://github.com/isaacx0/plugin-isaacx) - Advanced AI reasoning and cognitive modeling plugin
+- [NewsRiver](https://github.com/newsriver/eliza-plugin) - Provide your agent with a daily "News Subscription." Connects Eliza to the NewsRiver Intelligence API for daily, Gemini-synthesized macro and crypto briefings. Supports native x402 USDC micropayments.
 - [Mind Network](https://github.com/elizaos-plugins/plugin-mind-network) - Integration with Mind Network Hubs for secure, privacy-preserving voting
 - [NVIDIA NIM](https://github.com/elizaos-plugins/plugin-nvidia-nim) - NVIDIA's AI foundation models for content analysis and safety checks
 - [OpenAI](https://github.com/elizaos-plugins/plugin-openai) - Integration with OpenAI's GPT models for automated text generation
