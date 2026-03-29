@@ -190,6 +190,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [LLaMA](https://github.com/elizaos-plugins/plugin-llama) - Local LLM capabilities using LLaMA models with CPU and GPU support
 - [D.a.t.a](https://github.com/carv-protocol/plugin-d.a.t.a) - Data processing with authentication and trust scoring
 - [AlphaNeural](https://github.com/alphaneuralai/plugin-alphaneural) - Neural network capabilities for AI agents
+- [x402 + Swarms (SwarmX)](https://github.com/ItachiDevv/eliza-x402-swarms) - Multi-agent AI orchestration with x402 micropayments. 47 endpoints for contract audits, DeFi risk scoring, code audits, research reports. 15+ swarm architectures, 39 MCP tools. Pay per call with USDC.
 
 ### 🎨 Media & Content
 
