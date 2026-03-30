@@ -190,6 +190,8 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [LLaMA](https://github.com/elizaos-plugins/plugin-llama) - Local LLM capabilities using LLaMA models with CPU and GPU support
 - [D.a.t.a](https://github.com/carv-protocol/plugin-d.a.t.a) - Data processing with authentication and trust scoring
 - [AlphaNeural](https://github.com/alphaneuralai/plugin-alphaneural) - Neural network capabilities for AI agents
+- [SwarmX (swarms-x402)](https://github.com/SolTwizzy/swarms-x402) - Multi-agent AI orchestration with native x402 micropayments on Solana. 49 endpoints, 39 MCP tools, dual LLM (Gemini + OpenAI), knowledge/RAG with pgvector. ElizaOS v2 plugin.
+
 
 ### 🎨 Media & Content
 
