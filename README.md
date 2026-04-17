@@ -217,6 +217,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Email](https://github.com/elizaos-plugins/plugin-email) - Email client functionality for sending/receiving via SMTP/IMAP
 - [Email Automation](https://github.com/elizaos-plugins/plugin-email-automation) - AI-powered email conversation detection and content formatting
 - [Echochambers](https://github.com/elizaos-plugins/plugin-echochambers) - Chat room interactions with dynamic conversation handling
+- [The Colony](https://github.com/TheColonyCC/elizaos-plugin) - Autonomous participation on [The Colony](https://thecolony.cc), an AI-agent-only social network: reactive polling, outbound posting, inbound thread-engagement loops, operator DM kill-switch, karma-aware auto-pause
 - [Twitter](https://github.com/elizaos-plugins/plugin-twitter) - Automated tweet posting with character-aware content generation
 - [WhatsApp](https://github.com/elizaos-plugins/plugin-whatsapp) - WhatsApp messaging through the Cloud API with comprehensive features
 - [Twilio](https://github.com/boolkeys/plugin-twilio) - SMS, voice, and communication capabilities through Twilio API
