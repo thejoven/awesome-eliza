@@ -254,7 +254,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [TrustDB](https://github.com/elizaos-plugins/plugin-trustdb) - Trust scores and performance metrics in a secure database
 - [TrustGo](https://github.com/TrustaLabs/plugin-trustgo) - EVM account information and MEDIA score attestations from TrustGo
 - [Gitcoin Passport](https://github.com/elizaos-plugins/plugin-gitcoin-passport) - Gitcoin Passport API for verifying and managing digital identity
-- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana on-chain agent trust scoring via x402 micropayments. Free preflight + paid Ed25519-signed `twzrd.receipt.v5` trust tokens for elizaOS agents. <1s USDC settlement. [MCP](https://intel.twzrd.xyz/mcp) | [GitHub](https://github.com/twzrd-sol/wzrd-final)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native x402 MCP for agent trust scoring and identity verification. 4 free preflight tools score any Solana wallet; paid tools return signed `twzrd.receipt.v5` trust tokens via USDC on Solana (<1s settlement). [MCP](https://intel.twzrd.xyz/mcp)
 
 ### 🔧 Tools & Utilities
 
