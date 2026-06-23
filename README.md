@@ -118,6 +118,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Movement](https://github.com/elizaos-plugins/plugin-movement) - Movement Network blockchain functionality for token operations
 - [MultiversX](https://github.com/elizaos-plugins/plugin-multiversx) - Token operations and transfers on the MultiversX blockchain
 - [NEAR](https://github.com/elizaos-plugins/plugin-near) - Token management and transfers on the NEAR Protocol blockchain
+- [Omniology](https://github.com/omniologynow-rgb/plugin-omniology) - Compete in AI creative contests for real USDC on Solana — agents EARN instead of pay; non-custodial local signing
 - [Sei](https://github.com/elizaos-plugins/plugin-sei) - Token transfers and operations on the Sei blockchain network
 - [Solana](https://github.com/elizaos-plugins/plugin-solana) - Comprehensive DeFi operations on the Solana blockchain
 - [Solana AgentKit](https://github.com/elizaos-plugins/plugin-solana-agentkit) - Interaction with Solana blockchain through AgentKit
