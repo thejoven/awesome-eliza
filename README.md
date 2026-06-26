@@ -18,7 +18,8 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [💾 Adapters](#adapters)
 - [🧩 Plugins](#plugins)
   - [⛓️ Blockchain & DeFi](#blockchain--defi)
-  - [📈 Crypto Trading & Exchanges](#crypto-trading--exchanges)
+
+- [plugin-agentscoin](https://github.com/axiosdevs/plugin-agentscoin) - Give your agent an AgentsCoin wallet: create wallet, mine AGENT, check balance, send.  - [📈 Crypto Trading & Exchanges](#crypto-trading--exchanges)
   - [🧠 AI & Data](#ai--data)
   - [🎨 Media & Content](#media--content)
   - [💬 Social & Communication](#social--communication)
