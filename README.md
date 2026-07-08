@@ -97,6 +97,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ### ⛓️ Blockchain & DeFi
 
+- [AgentServices](https://github.com/vbkotecha/aiservices-api/tree/main/plugins/elizaos) - 50+ x402 paid APIs: crypto prices, DeFi yields, portfolio intelligence, on-chain analytics, market intelligence, and AI inference
 - [0x](https://github.com/elizaos-plugins/plugin-0x) - Token swaps through 0x Protocol across multiple EVM blockchains
 - [Aptos](https://github.com/elizaos-plugins/plugin-aptos) - Token transfers and wallet management on the Aptos blockchain
 - [Arthera](https://github.com/elizaos-plugins/plugin-arthera) - Transactions and token operations on the Arthera network
@@ -176,6 +177,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ### 🧠 AI & Data
 
+- [AgentServices](https://github.com/vbkotecha/aiservices-api/tree/main/plugins/elizaos) - 50+ paid APIs for AI agents via x402 micropayments: crypto data, market intelligence, DeFi strategy, portfolio analysis, on-chain analytics, AI inference, and web search
 - [Allora](https://github.com/elizaos-plugins/plugin-allora) - Real-time AI inferences from Allora Network for market predictions
 - [Asterai](https://github.com/elizaos-plugins/plugin-asterai) - Integration with asterai.io plugins and agents for enhanced AI capabilities
 - [ATTPs](https://github.com/APRO-com/plugin-ATTPs) - Verification of agent activities using proof generation and validation
