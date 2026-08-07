@@ -173,6 +173,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Ankr](https://github.com/elizaos-plugins/plugin-ankr) - Blockchain data queries for wallet information and token analytics
 - [Chainbase](https://github.com/elizaos-plugins/plugin-chainbase) - Natural language interactions with blockchain data across networks
 - [Edwin](https://github.com/elizaos-plugins/plugin-edwin) - Interaction with Edwin tools for DeFi operations
+- [OMNIDEX](https://github.com/mmahdiahamed92-png/omnidex-eliza-plugin) - Non-custodial multichain DEX for AI agents: rug-checked token discovery, best-route quotes, and locally-signed Solana swaps
 
 ### 🧠 AI & Data
 
