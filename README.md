@@ -264,6 +264,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Lightning](https://github.com/elizaos-plugins/plugin-lightning) - Lightning Network integration for off-chain Bitcoin payments
 - [Stargaze](https://github.com/elizaos-plugins/plugin-stargaze) - Fetches NFT data from Stargaze collections
 - [Web Search](https://github.com/elizaos-plugins/plugin-web-search) - Powerful web search capabilities with customizable API interface
+- [x402 Digital Vending Machine](https://github.com/woodhouseog/x402-digital-vending-machine) - Solana pay-per-call text cleanup utility with x402-native USDC settlement at 0.002 USDC per call
 
 ---
 
