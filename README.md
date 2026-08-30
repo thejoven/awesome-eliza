@@ -190,6 +190,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [LLaMA](https://github.com/elizaos-plugins/plugin-llama) - Local LLM capabilities using LLaMA models with CPU and GPU support
 - [D.a.t.a](https://github.com/carv-protocol/plugin-d.a.t.a) - Data processing with authentication and trust scoring
 - [AlphaNeural](https://github.com/alphaneuralai/plugin-alphaneural) - Neural network capabilities for AI agents
+- [BridgeNode x402](https://github.com/bridgenode-ai/elizaos-plugin-x402) - Pay-per-request LLM inference via x402 on Solana USDC — no API keys, no accounts, no registration
 
 ### 🎨 Media & Content
 
