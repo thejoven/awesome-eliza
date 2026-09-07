@@ -95,6 +95,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ## 🧩 Plugins
 
+- [opticparse-eliza-plugin](https://github.com/parastejpal987-cmyk/opticparse-public) - ElizaOS plugin for zero-CSS visual web scraping and sub-1.6s zero-day crypto drainer & phishing protection.
 ### ⛓️ Blockchain & DeFi
 
 - [0x](https://github.com/elizaos-plugins/plugin-0x) - Token swaps through 0x Protocol across multiple EVM blockchains
