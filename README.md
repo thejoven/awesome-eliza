@@ -96,7 +96,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 ## 🧩 Plugins
 
 ### ⛓️ Blockchain & DeFi
-
+- [@cortex-protocol/plugin-eliza](https://github.com/cortex-protocol/cortex-protocol/tree/main/packages/plugin-cortex) - Decentralized cognitive memory persistence and sovereign wallet on Cortex L1 PoW.
 - [0x](https://github.com/elizaos-plugins/plugin-0x) - Token swaps through 0x Protocol across multiple EVM blockchains
 - [Aptos](https://github.com/elizaos-plugins/plugin-aptos) - Token transfers and wallet management on the Aptos blockchain
 - [Arthera](https://github.com/elizaos-plugins/plugin-arthera) - Transactions and token operations on the Arthera network
