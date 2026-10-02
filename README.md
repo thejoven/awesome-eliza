@@ -232,6 +232,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 ### 🔒 Infrastructure & Security
 
 - [0G](https://github.com/elizaos-plugins/plugin-0g) - Decentralized file storage using the Zero Gravity protocol
+- [Agenda Guard](https://github.com/vassiliylakhonin/agenda-intelligence-md/tree/main/integrations/elizaos) - Reviews supplied transaction and delivery evidence for ElizaOS agents; requires human review and does not sign transactions or release escrow funds
 - [Akash](https://github.com/elizaos-plugins/plugin-akash) - Deployments and cloud compute operations on the Akash Network
 - [Anyone](https://github.com/elizaos-plugins/plugin-anyone) - SOCKS proxy configuration for the Anyone protocol proxy services
 - [AWS S3](https://github.com/elizaos-plugins/plugin-aws-s3) - AWS S3 integration for cloud-based file storage management
