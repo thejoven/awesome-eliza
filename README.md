@@ -256,6 +256,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Gitcoin Passport](https://github.com/elizaos-plugins/plugin-gitcoin-passport) - Gitcoin Passport API for verifying and managing digital identity
 
 ### 🔧 Tools & Utilities
+- [ConnectMeGuru](https://github.com/vineetgoyalhuf/eliza-plugin-connectmeguru) - Instant prepaid travel eSIM connectivity plugin enabling AI agents to search plans, compare rates, and provision mobile data across 200+ countries
 
 - [Browser](https://github.com/elizaos-plugins/plugin-browser) - Web scraping and browser automation using Playwright
 - [DKG](https://github.com/elizaos-plugins/plugin-dkg) - Integration with OriginTrail Decentralized Knowledge Graph
