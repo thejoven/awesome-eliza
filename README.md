@@ -117,6 +117,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Mina](https://github.com/elizaos-plugins/plugin-mina) - Mina blockchain interactions for token transfers and wallet management
 - [Movement](https://github.com/elizaos-plugins/plugin-movement) - Movement Network blockchain functionality for token operations
 - [MultiversX](https://github.com/elizaos-plugins/plugin-multiversx) - Token operations and transfers on the MultiversX blockchain
+- [Nano](https://github.com/dhyabi2/elizaos-plugin-nano) - Give an agent a Nano (XNO) wallet: feeless, instant, final payments and an x402 payer that settles in XNO (no gas, sub-cent agent payments)
 - [NEAR](https://github.com/elizaos-plugins/plugin-near) - Token management and transfers on the NEAR Protocol blockchain
 - [Sei](https://github.com/elizaos-plugins/plugin-sei) - Token transfers and operations on the Sei blockchain network
 - [Solana](https://github.com/elizaos-plugins/plugin-solana) - Comprehensive DeFi operations on the Solana blockchain
