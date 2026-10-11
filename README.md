@@ -244,6 +244,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Irys](https://github.com/elizaos-plugins/plugin-irys) - Decentralized data storage and retrieval using Irys datachain
 - [Lit](https://github.com/elizaos-plugins/plugin-lit) - Integration with Lit Protocol for decentralized access control
 - [Okto](https://github.com/okto-hq/eliza-plugin) - Self-custody wallet operations and transaction management
+- [RugShield 402](https://github.com/ak10082247-max/rugshield-402) - Pre-swap DEX honeypot detection and tax simulation gated via HTTP 402 on Base
 - [SGX](https://github.com/elizaos-plugins/plugin-sgx) - Intel SGX attestation capabilities for secure execution
 - [Spheron](https://github.com/elizaos-plugins/plugin-spheron) - Deployments and operations using the Spheron Protocol
 - [TEE](https://github.com/elizaos-plugins/plugin-tee) - Trusted Execution Environment operations and key management
