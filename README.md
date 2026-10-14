@@ -145,6 +145,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Rabbi Trader](https://github.com/elizaos-plugins/plugin-rabbi-trader) - Automated cryptocurrency trading on Solana with trust scoring
 - [Trikon](https://github.com/elizaos-plugins/plugin-trikon) - Token transfers for Trikon with wallet management on ZKsync Era
 - [AgentKit](https://github.com/elizaos-plugins/plugin-agentkit) - CDP AgentKit tools for NFT and token management on blockchains
+- [x402 Bazaar](https://github.com/sukrutkrdg/402/tree/main/integrations/elizaos) - Pre-trade token safety check (GO/HOLD/STOP), best-price swaps on Base, cross-chain swaps via NEAR Intents, and any pay-per-call service from the [live x402 Bazaar catalog](https://402.com.tr/api/catalog), paid per call over x402 (USDC on Base).
 
 ### 📈 Crypto Trading & Exchanges
 
