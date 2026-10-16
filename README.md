@@ -148,6 +148,8 @@ A curated list of awesome things related to the [eliza framework](https://github
 
 ### 📈 Crypto Trading & Exchanges
 
+- [$QWK (`@qwk/plugin-eliza-escrow`)](https://github.com/chase-tqg/QWIK-MEV-Core) - Autonomous hardware-accelerated MEV execution & smart contract resource escrow plugin backed by $400,000+ in verified Google Cloud, NVIDIA & Cloudflare compute, streaming 15% real yield to AI DAO treasuries.
+
 - [Binance](https://github.com/elizaos-plugins/plugin-binance) - Cryptocurrency trading and price checking via Binance API
 - [CCXT](https://github.com/pranavjadhav1363/plugin-ccxt) - Cryptocurrency trading and arbitrage across multiple exchanges
 - [Coinbase](https://github.com/elizaos-plugins/plugin-coinbase) - Integration with Coinbase's various APIs and trading services
