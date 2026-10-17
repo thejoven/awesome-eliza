@@ -57,6 +57,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [twitter-scraper-finetune](https://github.com/elizaOS/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
 - [elizagen](https://elizagen.howieduhzit.best/) - Easy eliza characterfile generator, add your own API keys
 - [Fleek.xyz](https://fleek.xyz/eliza/) - Deploy Eliza agents in one click on a hosted platform
+- [eliza-trader-starter](https://github.com/orkid-labs/eliza-trader-starter) - Starter template for an Orkid-powered trading agent on ElizaOS
 
 ## 🔌 Integrations
 
@@ -173,6 +174,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Ankr](https://github.com/elizaos-plugins/plugin-ankr) - Blockchain data queries for wallet information and token analytics
 - [Chainbase](https://github.com/elizaos-plugins/plugin-chainbase) - Natural language interactions with blockchain data across networks
 - [Edwin](https://github.com/elizaos-plugins/plugin-edwin) - Interaction with Edwin tools for DeFi operations
+- [Orkid](https://github.com/orkid-labs/plugin-orkid) - Gasless, MEV-protected EVM swaps via the Orkid execution engine — quote-first, Permit2-powered, non-custodial
 
 ### 🧠 AI & Data
 
