@@ -119,6 +119,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [MultiversX](https://github.com/elizaos-plugins/plugin-multiversx) - Token operations and transfers on the MultiversX blockchain
 - [NEAR](https://github.com/elizaos-plugins/plugin-near) - Token management and transfers on the NEAR Protocol blockchain
 - [Sei](https://github.com/elizaos-plugins/plugin-sei) - Token transfers and operations on the Sei blockchain network
+- [SelfPaidPal](https://github.com/altoninelli/eliza-plugin-selfpaid) - Autonomous zero-net-cost payments and bounties on Base with 100% capital recovery via DeFi yield (Aave V3 & Morpho).
 - [Solana](https://github.com/elizaos-plugins/plugin-solana) - Comprehensive DeFi operations on the Solana blockchain
 - [Solana AgentKit](https://github.com/elizaos-plugins/plugin-solana-agentkit) - Interaction with Solana blockchain through AgentKit
 - [Solana Agent Kit](https://github.com/elizaos-plugins/plugin-solana-agent-kit) - Token operations and NFT functionality on Solana
