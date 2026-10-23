@@ -254,6 +254,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [TrustDB](https://github.com/elizaos-plugins/plugin-trustdb) - Trust scores and performance metrics in a secure database
 - [TrustGo](https://github.com/TrustaLabs/plugin-trustgo) - EVM account information and MEDIA score attestations from TrustGo
 - [Gitcoin Passport](https://github.com/elizaos-plugins/plugin-gitcoin-passport) - Gitcoin Passport API for verifying and managing digital identity
+- [Doomsday Proof-of-Escrow](https://github.com/doomsday-network/doomsday/tree/main/integrations/elizaos) - Cryptographic on-chain bounty escrow verification (`VERIFY_ESCROW`, `LIST_ESCROWS`, `CLAIM_DOOM_FAUCET`) and anti-honeypot safety evaluator for ElizaOS agents on Base Mainnet (`wDOOM`) and Doomsday L1
 
 ### 🔧 Tools & Utilities
 
