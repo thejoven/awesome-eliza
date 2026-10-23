@@ -254,6 +254,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [TrustDB](https://github.com/elizaos-plugins/plugin-trustdb) - Trust scores and performance metrics in a secure database
 - [TrustGo](https://github.com/TrustaLabs/plugin-trustgo) - EVM account information and MEDIA score attestations from TrustGo
 - [Gitcoin Passport](https://github.com/elizaos-plugins/plugin-gitcoin-passport) - Gitcoin Passport API for verifying and managing digital identity
+- [x402 Tools](https://github.com/Duffey234/x402-plugins/tree/main/elizaos) - Pay-per-call x402 actions: OFAC address screen, Base token safety check, prompt-injection scan, paid-API finder, web page to Markdown and read-only Hyperliquid smart-money data (USDC per call, spend cap, no custody)
 
 ### 🔧 Tools & Utilities
 
