@@ -323,3 +323,4 @@ Thanks goes to all these wonderful people:
 <a href="https://github.com/elizaos/awesome-eliza/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elizaos/awesome-eliza" />
 </a>
+- [M2M Freedom Market Plugin](https://github.com/m2mfreedom/elizaos-plugin-m2m-freedom) - 8 pay-per-call x402 (Base/Solana USDC) & L402 (Bitcoin Lightning) actions: 9-in-1 CAPTCHA Solver, Stealth Anti-Bot Web Unlocker, Clean Markdown Scraper, Python 3 Quant Sandbox, Structured Table Extractor, Persistent K/V Memory Vault & BTC Oracle (zero deps, per-call spend cap, 100/100 SLA)
