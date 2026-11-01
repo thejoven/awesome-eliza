@@ -239,6 +239,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [DePIN](https://github.com/elizaos-plugins/plugin-depin) - Connection to physical infrastructure through Decentralized Networks
 - [ETHStorage](https://github.com/elizaos-plugins/plugin-ethstorage) - Interaction with EthStorage decentralized storage network
 - [Gelato](https://github.com/elizaos-plugins/plugin-gelato) - Smart contract interactions via Gelato Relay on EVM chains
+- [GL1TCH](https://github.com/flookiii25/eliza-plugin-gl1tch) - Pre-trade security guardrail against honeypots, rug pulls, and unlocked LP with verifiable drand randomness
 - [Hyperbolic](https://github.com/elizaos-plugins/plugin-hyperbolic) - GPU instance management on the Hyperbolic platform
 - [IQ6900](https://github.com/elizaos-plugins/plugin-iq6900) - Blockchain inscription functionality through IQ6900's Code-In standard
 - [Irys](https://github.com/elizaos-plugins/plugin-irys) - Decentralized data storage and retrieval using Irys datachain
