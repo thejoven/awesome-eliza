@@ -240,6 +240,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [ETHStorage](https://github.com/elizaos-plugins/plugin-ethstorage) - Interaction with EthStorage decentralized storage network
 - [Gelato](https://github.com/elizaos-plugins/plugin-gelato) - Smart contract interactions via Gelato Relay on EVM chains
 - [Hyperbolic](https://github.com/elizaos-plugins/plugin-hyperbolic) - GPU instance management on the Hyperbolic platform
+- [Ingravity Security](https://github.com/DMS1979/ingravity-security) - Autonomous $0.03 Fast-Ping, pre-flight EVM transaction firewall, and direct `0x` Base RPC  - honeypot forensics plugin ([npm `v1.2.0`](https://www.npmjs.com/package/ingravity-security)) for ElizaOS agents on Base Mainnet via x402 v2 USDC
 - [IQ6900](https://github.com/elizaos-plugins/plugin-iq6900) - Blockchain inscription functionality through IQ6900's Code-In standard
 - [Irys](https://github.com/elizaos-plugins/plugin-irys) - Decentralized data storage and retrieval using Irys datachain
 - [Lit](https://github.com/elizaos-plugins/plugin-lit) - Integration with Lit Protocol for decentralized access control
