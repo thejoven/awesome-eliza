@@ -235,7 +235,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Akash](https://github.com/elizaos-plugins/plugin-akash) - Deployments and cloud compute operations on the Akash Network
 - [Anyone](https://github.com/elizaos-plugins/plugin-anyone) - SOCKS proxy configuration for the Anyone protocol proxy services
 - [AWS S3](https://github.com/elizaos-plugins/plugin-aws-s3) - AWS S3 integration for cloud-based file storage management
-- [CanaryGuard](https://github.com/ak10082247-max/canaryguard-402) - Sub-millisecond deterministic prompt injection, concealed Unicode scrubbing, and wallet-drain defense firewall
+- [CanaryGuard](https://github.com/ak10082247-max/canaryguard-402) - Deterministic prompt injection, concealed Unicode scrubbing, and wallet-drain defense firewall
 - [DCAP](https://github.com/elizaos-plugins/plugin-dcap) - Intel Data Center Attestation Primitives for secure cloud environments
 - [DePIN](https://github.com/elizaos-plugins/plugin-depin) - Connection to physical infrastructure through Decentralized Networks
 - [ETHStorage](https://github.com/elizaos-plugins/plugin-ethstorage) - Interaction with EthStorage decentralized storage network
