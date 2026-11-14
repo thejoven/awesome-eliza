@@ -170,6 +170,7 @@ A curated list of awesome things related to the [eliza framework](https://github
 - [Messari AI Toolkit](https://github.com/messari/plugin-messari-ai-toolkit) - Crypto market research capabilities using Messari's AI Toolkit
 - [Moralis](https://github.com/elizaos-plugins/plugin-moralis) - Real-time DeFi data including trading pairs and price history
 - [GoPlus](https://github.com/elizaos-plugins/plugin-goplus) - On-chain security checks through the GoPlus API integration
+- [Trading Signals](https://github.com/gdietsch/plugin-trading-signals) - Pre-trade checks for Base and Solana tokens: rug-risk verdict, GO/CAUTION/STOP pack with OFAC screen, and whale flow, paid per call over x402 or with a free key
 - [Ankr](https://github.com/elizaos-plugins/plugin-ankr) - Blockchain data queries for wallet information and token analytics
 - [Chainbase](https://github.com/elizaos-plugins/plugin-chainbase) - Natural language interactions with blockchain data across networks
 - [Edwin](https://github.com/elizaos-plugins/plugin-edwin) - Interaction with Edwin tools for DeFi operations
